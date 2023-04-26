@@ -123,7 +123,7 @@ Manages devices on the network and control network-wide function like permission
 
 It is responsible for carrying the majority of Network traffic.
 <p align="center">
-	<img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.1.%20Network%20Backbone.png">
+	<img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.1.%20Network%20Backbone.png" weight="200" height="400" />
 </p>
 
 -   One backbone cable and multiple switches are connected.
