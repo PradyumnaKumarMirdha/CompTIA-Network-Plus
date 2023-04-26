@@ -122,8 +122,9 @@ Manages devices on the network and control network-wide function like permission
 ### Network Backbone:
 
 It is responsible for carrying the majority of Network traffic.
-
-![Untitled](https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.1.%20Network%20Backbone.png)
+<p align="center">
+	<img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.1.%20Network%20Backbone.png">
+</p>
 
 -   One backbone cable and multiple switches are connected.
 -   Hierarchical/Distributed: Easy management, typical for LANs, Easily scalable.
