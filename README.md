@@ -77,16 +77,69 @@ _____________________________________
     8.  Cryptography
 
 ---
-# Brief Introduction
 
- ◽ Network and Computer Network
- ◽ Components of network
- ◽ Node and a Server
- ◽ Network Backbone and Variations
- ◽ Terminal, Client and Peer
+## Brief Introduction
 
+◽ Network and Computer Network
+◽ Components of network 
+◽ Node and a Server 
+◽ Network Backbone and Variations 
+◽ Terminal, Client, and Peer
 
-## Network:
+---
 
-An interconnnected or interrealated chain, group or system.
+### Network:
+
+An interconnected or interrelated chain, group, or system.
+
+### Computer Network:
+
+Two or more computers are connected to one another for the purpose of communicating data electronically.
+
+### Components of Network:
+
+1.  Devices
+2.  Media
+3.  Network Adapter [NIC]
+4.  Network Operating System
+
+### Node:
+
+**Any device that is connected to a communications network.
+
+-   Endpoint Node - Clients and server, Printer, and network attached storage Devices.
+-   Redistribution Node - Router/Switch/Hub
+
+### Server:
+
+Provides resources and services like addressing 142.168.23.63
+
+Manages devices on the network and control network-wide function like permissions.
+
+### Network Backbone:
+
+It is responsible for carrying the majority of Network traffic.
+
+![Untitled](https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.1.%20Network%20Backbone.png)
+
+-   One backbone cable and multiple switches are connected.
+-   Hierarchical/Distributed: Easy management, typical for LANs, Easily scalable.
+-   Collapsed: Uses a Router as the connecting point.
+-   Parallel: Like collapsed, but uses multiple cable connections. Great for redundancy.
+
+### Terminal:
+
+-   It is a network hardware device that is used to enter data and display data from another computer having computing capabilities.
+-   It does not have any processing capabilities or memory of its own.
+-   A terminal requires an emulator to run itself.
+
+### Client:
+
+Has its own resources and memory power.
+
+### Peer:
+
+It is a network computer that has its own resources and services. It can be both server and client.
+
+Self Managed and Self Contained.
 
