@@ -75,9 +75,6 @@ _____________________________________
 3. NETWORKS AND INFRASTRUCTURE
 4. IDENTITY AND ACCESS MANAGEMENT
 5. RISK MANAGEMENT
-6. Incident Response & Forensics
-7. Testing the Infrastructure
-8. Cryptography
 
 ---
 <h1> 1. INTRODUCTION </h1>
@@ -166,11 +163,13 @@ It is responsible for carrying the majority of Network traffic.
 🔲 Internet, Intranet, Extranet<br>
 🔲 Centralized Network<br>
 🔲 Client-Server Network<br>
-🔲Peer to Peer Network<br>
+🔲Peer-to-Peer Network<br>
 🔲 Mixed Mode Network<br>
 🔲 Centralized Network<br>
 🔲 Client-Server Network<br>
+
 ---
+
 ### LAN- Local Area Network:
 
 - Spans the geographical area of a small building.
@@ -221,9 +220,9 @@ It is responsible for carrying the majority of Network traffic.
 - World uses for communication.
 - The world’s single largest Global - Wide Area Network.
 
- `✏ **Note:** *Every bit of data is stored.*`
+ `✏ Note: Every bit of data is stored.`
 
-- Public to everyone.
+>Public to everyone.
 
 ### Intranet
 
@@ -231,7 +230,7 @@ It is responsible for carrying the majority of Network traffic.
 - Keeps your network private, or secure from outside sources.
 - Same services and protocol as the Internet.
 - Accessed the same way you would a web page, through your browser.
-- Private Internet.
+> Private Internet.
 
 ### Extranet
 
@@ -239,12 +238,23 @@ It is responsible for carrying the majority of Network traffic.
 - Helps administrators maintain the rest of your network.
 - Allows individuals like vendors to have minimal access.
 - An extension of an entity’s Internet.
-- Let other people from other organizations have access to it.
+> Let other people from other organizations have access to it.
 
 ### Segment:
 
 A portion of a network with linked devices separated by a connectivity device such as a switch.
 
+<p align="center">
+<img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.4. segmetnt.png" height="300" weight="200"/>
+</p>
 
 
+### Network Model:
 
+![[1.5. Network Model.bmp]]
+1. Centralized Network
+2. Client/Server Network
+
+> 🔴 The main difference between Centralized and client-server model is that in client-server the processes and resources are allocated wherever they are needed including on client. The client can preform their own processing without constantly talking to the server.
+
+> 🔴In centralized model the mainframe will do the processing only whlile the terminal only display what work is going on.
