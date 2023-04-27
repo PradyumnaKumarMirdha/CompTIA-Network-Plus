@@ -318,6 +318,10 @@ Wired : Connection through NIC or directly through cross over cable.
 #### Radiated Connections:
 - A wireless connection that is either point to point, or Multipoint. Also considered a **Broadcast** connection.
 
+> UNICAST - One recipeent
+> MULTICAST - Two or more Recipeents
+> BROADCAST - All Recipeents
+
 ### Physical Bus Topology:
 
 <p align="center">
