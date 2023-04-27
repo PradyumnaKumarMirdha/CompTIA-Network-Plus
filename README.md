@@ -296,7 +296,7 @@ A portion of a network with linked devices separated by a connectivity device su
 	1. Physical Topology
 	2. Logical Topology
 <div>
-Physical Topology -  How the devices are actually connted to one another.
+`Physical Topology` -  How the devices are actually connted to one another.
 								 Describes the shape of the network takes.
 								 Allows the administrators to understand how the physcial media, or cales, connects the devices together.
 </div>
