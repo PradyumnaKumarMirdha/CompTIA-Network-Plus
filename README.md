@@ -245,6 +245,8 @@ It is responsible for carrying the majority of Network traffic.
 
 A portion of a network with linked devices separated by a connectivity device such as a switch.
 
+<p align=”center” >
 
+<img src=”[https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.4. segmetnt.png](https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.4.%20segmetnt.png)” /></p>
 
 
