@@ -159,14 +159,14 @@ It is responsible for carrying the majority of Network traffic.
 <img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.2.%20categories.png" height="300" weight="200"/>
 </p>
 
-## Module
+### Module
 
 🔲 Characteristics of LAN<br>
 🔲 Characteristics of WAN<br>
 🔲 Internet, Intranet, Extranet<br>
 🔲 Centralized Network<br>
 🔲 Client-Server Network<br>
-🔲Peer to Peer Network<br>
+🔲Peer-to-Peer Network<br>
 🔲 Mixed Mode Network<br>
 🔲 Centralized Network<br>
 🔲 Client-Server Network<br>
@@ -247,6 +247,6 @@ A portion of a network with linked devices separated by a connectivity device su
 
 <p align=”center” >
 
-<img src=”[https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.4. segmetnt.png](https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.4.%20segmetnt.png)” /></p>
+<img src=”https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.4.%20segmetnt.png?raw=true” /></p>
 
 
