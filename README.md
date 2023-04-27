@@ -333,6 +333,8 @@ Wired : Connection through NIC or directly through cross over cable.
 
 ### Physical Star Topology:
 <p align="center">
-<img src="https://www.hitechmv.com/wp-content/uploads/2014/05/bus_network1.gif" height="300" weight="200"/>
+<img src="https://cdn.comparitech.com/wp-content/uploads/2018/11/star-Topology.jpg" height="300" weight="200"/>
 </p>
-https://cdn.comparitech.com/wp-content/uploads/2018/11/star-Topology.jpg
+- Centralized connection(Switch or Hub).
+- Easy to maintain and implement.
+> Switch for Unicast & Hub for Broadcast connection.
