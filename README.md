@@ -220,7 +220,7 @@ It is responsible for carrying the majority of Network traffic.
 - World uses for communication.
 - The world’s single largest Global - Wide Area Network.
 
- `✏ Note: Every bit of data is stored.`
+ **`✏ NOTE: Every bit of data is stored.`**
 
 >Public to everyone.
 
@@ -247,17 +247,20 @@ A portion of a network with linked devices separated by a connectivity device su
 <p align="center">
 <img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.4. segmetnt.png" height="300" weight="200"/>
 </p>
-<<<<<<< HEAD
-
-=======
->>>>>>> 6f035fb50182e96682ababfcf087dd1241657a75
 
 ### Network Model:
 
 ![[1.5. Network Model.bmp]]
-1. Centralized Network
-2. Client/Server Network
+
+**1. Centralized Network**
+**2. Client/Server Network**
+**3. Peer to Peer Network**
+**4. Mixed Mode Network**
 
 > 🔴 The main difference between Centralized and client-server model is that in client-server the processes and resources are allocated wherever they are needed including on client. The client can preform their own processing without constantly talking to the server.
 
-> 🔴In centralized model the mainframe will do the processing only whlile the terminal only display what work is going on.
+- In centralized model the mainframe will do the processing only whlile the terminal only display what work is going on.
+- Peer to peer model is like a work group but the shareing of resources is done manually. If no information are shared between other then, they are no working will be possilbe.
+- Combine the functionlities of more than one of the three different networks.
+
+**` ✏ NOTE: Mixed mode is not used in enterpirse because of lack of control.`**

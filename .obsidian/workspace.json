@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "bf9db9cf13c3af34",
@@ -87,7 +87,7 @@
               "state": {
                 "file": "README.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -133,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -148,8 +148,8 @@
   },
   "active": "728da3d414ca2c83",
   "lastOpenFiles": [
-    "Guide.md",
     "Figures/1.5. Network Model.bmp",
-    "README.md"
+    "README.md",
+    "Guide.md"
   ]
 }
