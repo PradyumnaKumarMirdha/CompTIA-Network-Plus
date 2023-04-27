@@ -230,6 +230,7 @@ It is responsible for carrying the majority of Network traffic.
 - Keeps your network private, or secure from outside sources.
 - Same services and protocol as the Internet.
 - Accessed the same way you would a web page, through your browser.
+
 > Private Internet.
 
 ### Extranet
@@ -238,6 +239,7 @@ It is responsible for carrying the majority of Network traffic.
 - Helps administrators maintain the rest of your network.
 - Allows individuals like vendors to have minimal access.
 - An extension of an entity’s Internet.
+
 > Let other people from other organizations have access to it.
 
 ### Segment:
@@ -337,6 +339,7 @@ Wired : Connection through NIC or directly through cross over cable.
 </p>
 - Centralized connection(Switch or Hub).
 - Easy to maintain and implement.
+
 > Switch for Unicast & Hub for Broadcast connection.
 
 ### Physical Ring Topology:
@@ -347,6 +350,7 @@ Wired : Connection through NIC or directly through cross over cable.
 - Each connected to Upstream and Downstram Neighbors only.
 - Traffic is unidirectional only.
 - **Dual Ring Topology** is redundant connection.
+
 > Data may take longer time to reach its destination.
 
 ### Physical Tree Topology:
@@ -356,6 +360,7 @@ Wired : Connection through NIC or directly through cross over cable.
 </p>
 - It is scalable. 
 - Easer to troubleshoot
+
 > If connection is intruputed then none of the child could talk.
 
 **`✏ NOTE: Higher the branching factor the longer it takes data to travel from one node to another.
@@ -367,6 +372,7 @@ Wired : Connection through NIC or directly through cross over cable.
 </p>
 - Each are connected to other.
 - Highly reliable and efficient.
+
 > Expensive and difficult to implement.
 
 **`✏ NOTE: Large scale implementation that need high redundency and efficiency. `**
