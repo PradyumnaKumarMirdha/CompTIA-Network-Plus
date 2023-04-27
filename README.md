@@ -267,4 +267,4 @@ A portion of a network with linked devices separated by a connectivity device su
 
 ## 1.3. Network Topologies
 
-![[1.6. Network Topologies.png.bmp]]
+![[1.6. Network Topologies.bmp]]
