@@ -156,7 +156,7 @@ It is responsible for carrying the majority of Network traffic.
 ## 1.2. Network Categories and Models
 
 <p align="center">
-<img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.2.%20categories.png" />
+<img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.2.%20categories.png" height="300" weight="200"/>
 </p>
 
 ## Module
