@@ -250,7 +250,6 @@ A portion of a network with linked devices separated by a connectivity device su
 
 ### Network Model:
 
-<<<<<<< HEAD
 ![[1.5. Network Model.bmp]]
 
 **1. Centralized Network**
@@ -265,3 +264,7 @@ A portion of a network with linked devices separated by a connectivity device su
 - Combine the functionlities of more than one of the three different networks.
 
 **` ✏ NOTE: Mixed mode is not used in enterpirse because of lack of control.`**
+
+## 1.3. Network Topologies
+
+![[1.6. Network Topologies.png.bmp]]
