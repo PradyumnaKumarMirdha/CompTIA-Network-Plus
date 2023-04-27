@@ -362,4 +362,11 @@ Wired : Connection through NIC or directly through cross over cable.
 `**
 
 ### Physical Mesh Topology:
+<p align="center">
+<img src="https://www.nakivo.com/blog/wp-content/uploads/2021/04/The-mesh-network-topology-the-full-mesh-and-partial-mesh.png" height="300" weight="200"/>
+</p>
+- Each are connected to other.
+- Highly reliable and efficient.
+> Expensive and difficult to implement.
 
+`✏ NOTE: Large scale implementation that need high redundency and efficiency. `
