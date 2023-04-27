@@ -154,5 +154,20 @@ It is a network computer that has its own resources and services. It can be both
 
 Self Managed and Self Contained.
 ---
-## 1.2. Network Catagories and Models
+## 1.2. Network Categories and Models
 
+<p align=”center” >
+
+<img src=”[https://imgs.search.brave.com/d5jRupY5PjwWQwKxIlluO6OSey70rFRFAAO6zQhFLC0/rs:fit:1200:1005:1/g:ce/aHR0cHM6Ly91dG9w/aWEuZmFucy93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMC8wOS80/LVR5cGVzLW9mLU5l/dHdvcmtzLmpwZw](https://imgs.search.brave.com/d5jRupY5PjwWQwKxIlluO6OSey70rFRFAAO6zQhFLC0/rs:fit:1200:1005:1/g:ce/aHR0cHM6Ly91dG9w/aWEuZmFucy93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMC8wOS80/LVR5cGVzLW9mLU5l/dHdvcmtzLmpwZw)” /></p>
+
+### Module
+
+🔲 Characteristics of LAN<br>
+🔲 Characteristics of WAN<br>
+🔲 Internet, Intranet, Extranet<br>
+🔲 Centralized Network<br>
+🔲 Client-Server Network<br>
+🔲Peer to Peer Network<br>
+🔲 Mixed Mode Network<br>
+🔲 Centralized Network<br>
+🔲 Client-Server Network<br>
