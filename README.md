@@ -317,3 +317,5 @@ Wired : Connection through NIC or directly through cross over cable.
 - Nodes on a ndtwork are connected to two or more nodes simultaneously. Signals are not private in Multipoint connections.
 #### Radiated Connections:
 - A wireless connection that is either point to point, or Multipoint. Also considered a **Broadcast** connection.
+
+### Physical Bus Topology:
