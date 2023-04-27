@@ -348,3 +348,11 @@ Wired : Connection through NIC or directly through cross over cable.
 - Traffic is unidirectional only.
 - **Dual Ring Topology** is redundant connection.
 > Data may take longer time to reach its destination.
+
+### Physical Tree Topology:
+
+<p align="center">
+<img src="https://cdn.comparitech.com/wp-content/uploads/2018/11/Tree-Topology.jpg" height="300" weight="200"/>
+</p>
+**`✏ NOTE: Higher the branching factor the longer it takes data to travel from one node to another.`**
+> Easer to tro
