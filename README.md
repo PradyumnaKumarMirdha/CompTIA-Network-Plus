@@ -270,11 +270,11 @@ A portion of a network with linked devices separated by a connectivity device su
 
 ### Module
 🔲 Topology<br>
-🔲 Physical T<br>
-🔲 Internet, Intranet, Extranet<br>
-🔲 Centralized Network<br>
-🔲 Client-Server Network<br>
-🔲Peer-to-Peer Network<br>
-🔲 Mixed Mode Network<br>
-🔲 Centralized Network<br>
-🔲 Client-Server Network
+🔲 Physical Topology<br>
+🔲 Logical Topology<br>
+🔲 Bus Topology<br>
+🔲 Star Topology<br>
+🔲Ring Topology<br>
+🔲 Tree Topology<br>
+🔲 Mesh Topology<br>
+
