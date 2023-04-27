@@ -376,4 +376,7 @@ Wired : Connection through NIC or directly through cross over cable.
 <img src="https://networkinterview.com/wp-content/uploads/2020/05/hybrid-network-topology-dp.jpg" height="300" weight="200"/>
 </p>
 
-## Logical 
+## Logical Topology:
+
+### Logical Bus
+
