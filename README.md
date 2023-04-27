@@ -245,6 +245,6 @@ It is responsible for carrying the majority of Network traffic.
 
 A portion of a network with linked devices separated by a connectivity device such as a switch.
 
-<p align=”center” >
 
-<img src=”[https://imgs.search.brave.com/4XNfLm8sFt5f9gHrGBVwOpN5tuyS7rP0hsOLrNEklIU/rs:fit:707:299:1/g:ce/aHR0cHM6Ly9pbnNp/Z2h0cy5zZWkuY211/LmVkdS9tZWRpYS9p/bWFnZXMvRmlnMl9T/ZWdtZW50ZWRfTmV0/d29ya19BcmNoaXRl/Y3R1cmUubWF4LTcz/MHg3MzMucG5n](https://imgs.search.brave.com/4XNfLm8sFt5f9gHrGBVwOpN5tuyS7rP0hsOLrNEklIU/rs:fit:707:299:1/g:ce/aHR0cHM6Ly9pbnNp/Z2h0cy5zZWkuY211/LmVkdS9tZWRpYS9p/bWFnZXMvRmlnMl9T/ZWdtZW50ZWRfTmV0/d29ya19BcmNoaXRl/Y3R1cmUubWF4LTcz/MHg3MzMucG5n)” /></p>
+
+
