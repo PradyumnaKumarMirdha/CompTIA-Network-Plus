@@ -1,13 +1,3 @@
-<html>
-<head>
-<style>
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
-</style>
-</head>
-<body>
-
 <p align="center">
   <img src="https://imgs.search.brave.com/RjQulQduRvsCWLDrbDrjdT_guId9haJHFJZgVQBASdE/rs:fit:1200:884:1/g:ce/aHR0cHM6Ly8yLmJw/LmJsb2dzcG90LmNv/bS8tNU5nRll5WjZS/dFkvVVVKc3hFcHVU/S0kvQUFBQUFBQUFB/QzAveXlmOXdnV00x/M2MvczE2MDAvcGhv/dG9fMTM2MTgzNDQy/Ni5wbmc" alt="image description">
 </p>
@@ -161,5 +151,4 @@ It is a network computer that has its own resources and services. It can be both
 
 Self Managed and Self Contained.
 
-</body>
-</html>
+
