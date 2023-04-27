@@ -159,7 +159,7 @@ It is responsible for carrying the majority of Network traffic.
 <img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.2.%20categories.png" height="300" weight="200"/>
 </p>
 
-### Module
+## Module
 
 🔲 Characteristics of LAN<br>
 🔲 Characteristics of WAN<br>
@@ -170,7 +170,9 @@ It is responsible for carrying the majority of Network traffic.
 🔲 Mixed Mode Network<br>
 🔲 Centralized Network<br>
 🔲 Client-Server Network<br>
+
 ---
+
 ### LAN- Local Area Network:
 
 - Spans the geographical area of a small building.
@@ -245,8 +247,8 @@ It is responsible for carrying the majority of Network traffic.
 
 A portion of a network with linked devices separated by a connectivity device such as a switch.
 
-<p align=”center” >
-
-<img src=”https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.4.%20segmetnt.png?raw=true” /></p>
+<p align="center">
+<img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.4. segmetnt.png" height="300" weight="200"/>
+</p>
 
 
