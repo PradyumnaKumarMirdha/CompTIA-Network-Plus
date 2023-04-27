@@ -78,18 +78,20 @@ _____________________________________
 
 ---
 
--  _**Course Content**_
+### Course Content
 
- 1. Introduction
-2. Security Tools
-3. Networks and Infrastructure
-4. Identity and Access Management
-5. Risk Management
+1. INTRODUCTION
+2. SECURITY TOOLS
+3. NETWORKS AND INFRASTRUCTURE
+4. IDENTITY AND ACCESS MANAGEMENT
+5. RISK MANAGEMENT
 6. Incident Response & Forensics
 7. Testing the Infrastructure
 8. Cryptography
 ---
-<h1> INTRODUCTION </h1>
+<h1> 1. INTRODUCTION </h1>
+
+---
 ---
 
 ## Networking & Terminology
@@ -101,7 +103,7 @@ _____________________________________
 🔲 Terminal, Client, and Peer<br>
 
 ---
----
+
 
 ### Network:
 
