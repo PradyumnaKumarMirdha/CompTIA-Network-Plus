@@ -379,4 +379,7 @@ Wired : Connection through NIC or directly through cross over cable.
 ## Logical Topology:
 
 ### Logical Bus
+<p align="center">
+<img src="https://www.computernetworkingnotes.org/images/networking-tutorials/nt26-04-network-topology-physical-toplogy-logical-topology.png" height="300" weight="200"/>
+</p>
 
