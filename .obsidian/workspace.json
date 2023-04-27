@@ -15,7 +15,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -114,21 +114,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f96e647c92e03e22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,10 +250,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f96e647c92e03e22",
+  "active": "d6b0ce79816158f3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "bus 1.jpg",
+    "bus.jpg",
     "README.md",
+    "conflict-files-obsidian-git.md",
     "Figures/1.5. Network Model.bmp",
     "Guide.md",
     "Figures/1.5. Network Model.png",
