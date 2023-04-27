@@ -146,13 +146,12 @@ It is responsible for carrying the majority of Network traffic.
 
 ### Client:
 
-Has its own resources and memory power.
+- Has its own resources and memory power.
 
 ### Peer:
 
-It is a network computer that has its own resources and services. It can be both server and client.
-
-Self Managed and Self Contained.
+- It is a network computer that has its own resources and services. It can be both server and client.
+- Self Managed and Self Contained.
 ---
 ## 1.2. Network Categories and Models
 
