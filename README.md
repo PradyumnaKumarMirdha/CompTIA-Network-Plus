@@ -305,3 +305,7 @@ A portion of a network with linked devices separated by a connectivity device su
 								Allows an administrator to troubleshoot problems with communication in transit by understaning the path data is taking.
 								Different than the physical topology of the network.
 
+### Network Connection
+
+#### Point to Point Connections:
+- A direct connection between two nodes on a network.
