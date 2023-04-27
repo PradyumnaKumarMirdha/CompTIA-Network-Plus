@@ -247,7 +247,10 @@ A portion of a network with linked devices separated by a connectivity device su
 <p align="center">
 <img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.4. segmetnt.png" height="300" weight="200"/>
 </p>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6f035fb50182e96682ababfcf087dd1241657a75
 
 ### Network Model:
 
