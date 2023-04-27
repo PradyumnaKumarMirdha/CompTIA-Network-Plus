@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://imgs.search.brave.com/RjQulQduRvsCWLDrbDrjdT_guId9haJHFJZgVQBASdE/rs:fit:1200:884:1/g:ce/aHR0cHM6Ly8yLmJw/LmJsb2dzcG90LmNv/bS8tNU5nRll5WjZS/dFkvVVVKc3hFcHVU/S0kvQUFBQUFBQUFB/QzAveXlmOXdnV00x/M2MvczE2MDAvcGhv/dG9fMTM2MTgzNDQy/Ni5wbmc" alt="image description">
+</p>
 ### 📢 About
 
 **The main objectives of this repo**
@@ -65,28 +68,35 @@ _____________________________________
 
 ---
 
--  _**Course Content**_
+### Course Content
 
-    1.  [Introduction](#Brief Introduction)
-    2.  Security Tools
-    3.  Networks and Infrastructure
-    4.  Identity and Access Management
-    5.  Risk Management
-    6.  Incident Response & Forensics
-    7.  Testing the Infrastructure
-    8.  Cryptography
+1. INTRODUCTION
+2. SECURITY TOOLS
+3. NETWORKS AND INFRASTRUCTURE
+4. IDENTITY AND ACCESS MANAGEMENT
+5. RISK MANAGEMENT
+6. Incident Response & Forensics
+7. Testing the Infrastructure
+8. Cryptography
+
+---
+<h1> 1. INTRODUCTION </h1>
+
+## 1.1. Networking & Terminology
+<p align="center">
+  <img src="https://imgs.search.brave.com/pifhuX6n6wWoPBwtO1eTvqAztTxpMv4S6r71EzJrhQE/rs:fit:1200:800:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaWRnZXNnLm5l/dC9pbWFnZXMvYXJ0/aWNsZS8yMDE3LzA3/L3dpLWZpX3dpcmVs/ZXNzX2NvbW11bmlj/YXRpb25fbmV0d29y/a19hYnN0cmFjdF90/aGlua3N0b2NrXzYx/MDEyNzk4NF8xMjAw/eDgwMC0xMDA3MzAx/MDctbGFyZ2UuanBn" alt="image description" height="400" weigth="500" />
+</p>
+
+## Module
+
+🔲 Network and Computer Network<br>
+🔲 Components of network<br>
+🔲 Node and a Server<br>
+🔲 Network Backbone and Variations<br>
+🔲 Terminal, Client, and Peer<br>
 
 ---
 
-## Brief Introduction
-
-◽ Network and Computer Network
-◽ Components of network 
-◽ Node and a Server 
-◽ Network Backbone and Variations 
-◽ Terminal, Client, and Peer
-
----
 
 ### Network:
 
@@ -119,8 +129,9 @@ Manages devices on the network and control network-wide function like permission
 ### Network Backbone:
 
 It is responsible for carrying the majority of Network traffic.
-
-![Untitled](https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.1.%20Network%20Backbone.png)
+<p align="center">
+	<img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.1.%20Network%20Backbone.png" weight="200" height="300" />
+</p>
 
 -   One backbone cable and multiple switches are connected.
 -   Hierarchical/Distributed: Easy management, typical for LANs, Easily scalable.
@@ -135,11 +146,105 @@ It is responsible for carrying the majority of Network traffic.
 
 ### Client:
 
-Has its own resources and memory power.
+- Has its own resources and memory power.
 
 ### Peer:
 
-It is a network computer that has its own resources and services. It can be both server and client.
+- It is a network computer that has its own resources and services. It can be both server and client.
+- Self Managed and Self Contained.
+---
+## 1.2. Network Categories and Models
 
-Self Managed and Self Contained.
+<p align="center">
+<img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.2.%20categories.png" height="300" weight="200"/>
+</p>
+
+## Module
+
+🔲 Characteristics of LAN<br>
+🔲 Characteristics of WAN<br>
+🔲 Internet, Intranet, Extranet<br>
+🔲 Centralized Network<br>
+🔲 Client-Server Network<br>
+🔲Peer to Peer Network<br>
+🔲 Mixed Mode Network<br>
+🔲 Centralized Network<br>
+🔲 Client-Server Network<br>
+---
+### LAN- Local Area Network:
+
+- Spans the geographical area of a small building.
+- The most commonly implemented technology is Ethernet, however, it is not limited to only Ethernet Technology.
+- The Nodes in a LAN are directly connected to one another by cable or short-range wireless.
+- Does not require a line to be leased from a service provider.
+
+### LAN Administrator Duties:
+
+- Broad range of versatile skills is needed.
+- Responsible for maintaining and managing the Local Network.
+- Should handle tasks like Hardware, software, Deployment, Upgrades, Installation, and Troubleshooting of Network Components.
+- Responds to User requirements.
+
+### WAN- Wide Area Network:
+
+- Spans a large Geographical area, and often multiple areas.
+- Connects Multiple Local Area Networks together.
+- Utilizes long Range Communication such as satellite, or Radiofrequency.
+- Can be private, like International Corp., or public. The world’s largest Public WAN is the **Internet**.
+
+### Types of  WANs:
+
+- PAN - Personal Area Network [ Bluetooth ]
+- CAN - Campus Area Network [ School, Colleges ]
+- MAN - Metropolitan Area Network [ city ]
+- GAN - Global Area Network [ Satellite ]
+    - Controlled by One Company
+- EN - Enterprise Network
+    - An EN is a network that typically is comprised of components of both a WAN and LAN and is owned and operated by a single organization or company.
+    
+
+### WAN Administrator Duties:
+
+- Specialized in their respective fields.
+    - Need to be fluent in routing structure.
+    - Troubleshooting network issues.
+    - More responsible for data vs voice system.
+- Network-oriented tasks, rather user-oriented tasks. [ Backend ]
+- Developing and programming scripts for network task automation.
+- Testing and implementing software and hardware upgrades, network-wide.
+
+### Internet
+
+- Used for many things including sending email.
+- Completing commercial and private transactions.
+- Connecting network in the same room or thousand miles away.
+- World uses for communication.
+- The world’s single largest Global - Wide Area Network.
+
+ `✏ **Note:** *Every bit of data is stored.*`
+
+- Public to everyone.
+
+### Intranet
+
+- An organization’s private version of the Internet.
+- Keeps your network private, or secure from outside sources.
+- Same services and protocol as the Internet.
+- Accessed the same way you would a web page, through your browser.
+- Private Internet.
+
+### Extranet
+
+- A portion of your network that is opened to limited outside sources.
+- Helps administrators maintain the rest of your network.
+- Allows individuals like vendors to have minimal access.
+- An extension of an entity’s Internet.
+- Let other people from other organizations have access to it.
+
+### Segment:
+
+A portion of a network with linked devices separated by a connectivity device such as a switch.
+
+
+
 
