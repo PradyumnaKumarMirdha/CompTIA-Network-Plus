@@ -78,14 +78,16 @@ _____________________________________
 6. Incident Response & Forensics
 7. Testing the Infrastructure
 8. Cryptography
----
+
 ---
 <h1> 1. INTRODUCTION </h1>
 
----
----
+<p align="center">
+  <img src="https://imgs.search.brave.com/pifhuX6n6wWoPBwtO1eTvqAztTxpMv4S6r71EzJrhQE/rs:fit:1200:800:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaWRnZXNnLm5l/dC9pbWFnZXMvYXJ0/aWNsZS8yMDE3LzA3/L3dpLWZpX3dpcmVs/ZXNzX2NvbW11bmlj/YXRpb25fbmV0d29y/a19hYnN0cmFjdF90/aGlua3N0b2NrXzYx/MDEyNzk4NF8xMjAw/eDgwMC0xMDA3MzAx/MDctbGFyZ2UuanBn" alt="image description" height="400" weigth="500" />
+</p>
 
 ## 1.1. Networking & Terminology
+
 
 🔲 Network and Computer Network<br>
 🔲 Components of network<br>
@@ -128,7 +130,7 @@ Manages devices on the network and control network-wide function like permission
 
 It is responsible for carrying the majority of Network traffic.
 <p align="center">
-	<img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.1.%20Network%20Backbone.png" weight="200" height="400" />
+	<img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.1.%20Network%20Backbone.png" weight="200" height="300" />
 </p>
 
 -   One backbone cable and multiple switches are connected.
