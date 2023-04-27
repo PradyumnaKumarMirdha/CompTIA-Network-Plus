@@ -90,9 +90,45 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "3fb56d4edcf5caed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a81a043762b06b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f96e647c92e03e22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -227,13 +263,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcd8383f26b588fc",
+  "active": "f96e647c92e03e22",
   "lastOpenFiles": [
-    "Figures/1.6. network-topologies-header.jpg",
     "conflict-files-obsidian-git.md",
     "README.md",
+    "Figures/1.5. Network Model.bmp",
     "Guide.md",
-    "Figures/1.6. Network Topologies.bmp",
-    "Figures/1.5. Network Model.bmp"
+    "Figures/1.5. Network Model.png",
+    "Figures/1.5. Network Model - Copy.bmp",
+    "Figures/1.6. network-topologies-header.jpg",
+    "Figures/1.6. Network Topologies.bmp"
   ]
 }
