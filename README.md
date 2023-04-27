@@ -265,14 +265,3 @@ A portion of a network with linked devices separated by a connectivity device su
 - Combine the functionlities of more than one of the three different networks.
 
 **` ✏ NOTE: Mixed mode is not used in enterpirse because of lack of control.`**
-=======
-<p align="center">
-<img src="https://raw.githubusercontent.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/main/Figures/1.5.%20Network%20Model.bmp?token=GHSAT0AAAAAACAPQT2US3PUF44QFROKOMUIZCKQJCQ" height="300" weight="200"/>
-</p>
-
-1. Centralized Network
-2. Client/Server Network
-
-> 🔴 The main difference between Centralized and client-server model is that in client-server the processes and resources are allocated wherever they are needed including on client. The client can preform their own processing without constantly talking to the server.
-
-**`✏ NOTE: In centralized model the mainframe will do the processing only whlile the terminal only display what work is going on.`**

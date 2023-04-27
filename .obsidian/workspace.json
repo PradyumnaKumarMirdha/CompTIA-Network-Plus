@@ -128,13 +128,21 @@
                 "file": "README.md"
               }
             }
+          },
+          {
+            "id": "a9d479b9e4fb84b7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 206.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "728da3d414ca2c83",
+  "active": "b8cecb7daa335483",
   "lastOpenFiles": [
     "Figures/1.5. Network Model.bmp",
     "README.md",
