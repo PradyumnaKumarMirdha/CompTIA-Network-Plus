@@ -85,7 +85,7 @@ _____________________________________
 ---
 ---
 
-## 1.1 Networking & Terminology
+## 1.1. Networking & Terminology
 
 🔲 Network and Computer Network<br>
 🔲 Components of network<br>
@@ -152,5 +152,5 @@ It is a network computer that has its own resources and services. It can be both
 
 Self Managed and Self Contained.
 ---
-## 1.2 Network Catagories and Models
+## 1.2. Network Catagories and Models
 
