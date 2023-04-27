@@ -319,9 +319,9 @@ Wired : Connection through NIC or directly through cross over cable.
 - A wireless connection that is either point to point, or Multipoint. Also considered a **Broadcast** connection.
 
 > UNICAST - One recipeent
-<br>
+
 > MULTICAST - Two or more Recipeents
-<br>
+
 > BROADCAST - All Recipeents
 
 ### Physical Bus Topology:
