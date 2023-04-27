@@ -338,3 +338,13 @@ Wired : Connection through NIC or directly through cross over cable.
 - Centralized connection(Switch or Hub).
 - Easy to maintain and implement.
 > Switch for Unicast & Hub for Broadcast connection.
+
+### Physical Ring Topology:
+
+<p align="center">
+<img src="https://cdn.comparitech.com/wp-content/uploads/2018/11/Dual-Ring-Topology.jpg" height="300" weight="200"/>
+</p>
+- Each connected to Upstream and Downstram Neighbors only.
+- Traffic is unidirectional only.
+- **Dual Ring Topology** is redundant connection.
+> Data may take longer time to reach its destination.
