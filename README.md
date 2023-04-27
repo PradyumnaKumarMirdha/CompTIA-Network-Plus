@@ -301,8 +301,7 @@ A portion of a network with linked devices separated by a connectivity device su
 								 Allows the administrators to understand how the physcial media, or cales, connects the devices together.
 </div>
 
-<div>
 `**Logical Topology**` - Describes the patway data will take, regardless of the physical connection.
 								Allows an administrator to troubleshoot problems with communication in transit by understaning the path data is taking.
 								Different than the physical topology of the network.
-</div>
+
