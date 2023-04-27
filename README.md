@@ -1,3 +1,13 @@
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
+
 <p align="center">
   <img src="https://imgs.search.brave.com/RjQulQduRvsCWLDrbDrjdT_guId9haJHFJZgVQBASdE/rs:fit:1200:884:1/g:ce/aHR0cHM6Ly8yLmJw/LmJsb2dzcG90LmNv/bS8tNU5nRll5WjZS/dFkvVVVKc3hFcHVU/S0kvQUFBQUFBQUFB/QzAveXlmOXdnV00x/M2MvczE2MDAvcGhv/dG9fMTM2MTgzNDQy/Ni5wbmc" alt="image description">
 </p>
@@ -70,18 +80,19 @@ _____________________________________
 
 -  _**Course Content**_
 
-    1.  [Introduction](#Brief Introduction)
-    2.  Security Tools
-    3.  Networks and Infrastructure
-    4.  Identity and Access Management
-    5.  Risk Management
-    6.  Incident Response & Forensics
-    7.  Testing the Infrastructure
-    8.  Cryptography
-
+ 1. Introduction
+2. Security Tools
+3. Networks and Infrastructure
+4. Identity and Access Management
+5. Risk Management
+6. Incident Response & Forensics
+7. Testing the Infrastructure
+8. Cryptography
+---
+<h1> INTRODUCTION </h1>
 ---
 
-## NETWORKING AND TERMINOLOGY
+## Networking & Terminology
 
 🔲 Network and Computer Network<br>
 🔲 Components of network<br>
@@ -148,3 +159,5 @@ It is a network computer that has its own resources and services. It can be both
 
 Self Managed and Self Contained.
 
+</body>
+</html>
