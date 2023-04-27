@@ -81,14 +81,15 @@ _____________________________________
 
 ---
 
-## Brief Introduction
+## NETWORKING AND TERMINOLOGY
 
-◽ Network and Computer Network
-◽ Components of network 
-◽ Node and a Server 
-◽ Network Backbone and Variations 
-◽ Terminal, Client, and Peer
+🔲 Network and Computer Network<br>
+🔲 Components of network<br>
+🔲 Node and a Server<br>
+🔲 Network Backbone and Variations<br>
+🔲 Terminal, Client, and Peer<br>
 
+---
 ---
 
 ### Network:
