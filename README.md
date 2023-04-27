@@ -257,8 +257,11 @@ A portion of a network with linked devices separated by a connectivity device su
 </p>
 
 **1. Centralized Network**
+
 **2. Client/Server Network**
+
 **3. Peer to Peer Network**
+
 **4. Mixed Mode Network**
 
 > 🔴 The main difference between Centralized and client-server model is that in client-server the processes and resources are allocated wherever they are needed including on client. The client can preform their own processing without constantly talking to the server.
