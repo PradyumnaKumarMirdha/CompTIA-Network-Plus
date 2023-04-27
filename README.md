@@ -295,11 +295,11 @@ A portion of a network with linked devices separated by a connectivity device su
 - Two type of Topology: 
 	1. Physical Topology
 	2. Logical Topology
-<div>
+
 **`Physical Topology`** -  How the devices are actually connted to one another.
 								 Describes the shape of the network takes.
 								 Allows the administrators to understand how the physcial media, or cales, connects the devices together.
-</div>
+
 
 `**Logical Topology**` - Describes the patway data will take, regardless of the physical connection.
 								Allows an administrator to troubleshoot problems with communication in transit by understaning the path data is taking.
