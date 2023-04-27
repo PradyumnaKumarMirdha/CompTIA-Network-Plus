@@ -314,4 +314,6 @@ Wireless : Connection through infrared like Remote and TV.
 Wired : Connection through NIC or directly through cross over cable.
 
 #### Multipoint Connections:
-- Nodes on a ndtwork are connected to two or more nodes simultaneously. Signals are n
+- Nodes on a ndtwork are connected to two or more nodes simultaneously. Signals are not private in Multipoint connections.
+#### Radiated Connections:
+- A wireless connection that is either point to point, or Multipoint. Also considered a **Broadcast** connection.
