@@ -250,7 +250,9 @@ A portion of a network with linked devices separated by a connectivity device su
 
 ### Network Model:
 
-![[1.5. Network Model.bmp]]
+<p align="center">
+<img src="https://raw.githubusercontent.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/main/Figures/1.5.%20Network%20Model.bmp?token=GHSAT0AAAAAACAPQT2U43UWEK7PDGMTD2PWZCKRYGA" height="300" weight="200"/>
+</p>
 
 **1. Centralized Network**
 **2. Client/Server Network**
@@ -266,7 +268,9 @@ A portion of a network with linked devices separated by a connectivity device su
 **` ✏ NOTE: Mixed mode is not used in enterpirse because of lack of control.`**
 
 ## 1.3. Network Topologies
-![[1.6. 1.6. network-topologies-header.jpg]]
+<p align="center">
+<img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.6.%20network-topologies-header.jpg" height="300" weight="200"/>
+</p>
 
 ## Module
 
@@ -289,8 +293,12 @@ A portion of a network with linked devices separated by a connectivity device su
 - Two type of Topology: 
 	1. Physical Topology
 	2. Logical Topology
-**Physical Topology** -  How the devices are actually connted to one another.
+<br>
+**Physical Topology** -  *How the devices are actually connted to one another.
 								 Describes the shape of the network takes.
 								 Allows the administrators to understand how the physcial media, or cales, connects the devices together.
-**Logical Topology** - Describes the patway data will take, regardless of the physical connection.
-								
+<br>
+**Logical Topology** - *Describes the patway data will take, regardless of the physical connection.
+								Allows an administrator to troubleshoot problems with communication in transit by understaning the path data is taking.
+								Different than the physical topology of the network.
+<br>	
