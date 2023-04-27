@@ -79,12 +79,13 @@ _____________________________________
 7. Testing the Infrastructure
 8. Cryptography
 ---
+---
 <h1> 1. INTRODUCTION </h1>
 
 ---
 ---
 
-## Networking & Terminology
+## 1.1 Networking & Terminology
 
 🔲 Network and Computer Network<br>
 🔲 Components of network<br>
@@ -150,5 +151,6 @@ Has its own resources and memory power.
 It is a network computer that has its own resources and services. It can be both server and client.
 
 Self Managed and Self Contained.
-
+---
+## 1.2 Network Catagories and Models
 
