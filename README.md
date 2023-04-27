@@ -283,4 +283,5 @@ A portion of a network with linked devices separated by a connectivity device su
 
 ### Topology:
 
-Describes the arrangement or layout of a communication network.
+- Describes the arrangement or layout of a communication network.
+- Lines out the path sda
