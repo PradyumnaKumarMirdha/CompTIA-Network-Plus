@@ -223,9 +223,9 @@ It is responsible for carrying the majority of Network traffic.
 - World uses for communication.
 - The world’s single largest Global - Wide Area Network.
 
- `✏ **Note:** *Every bit of data is stored.*`
+ `✏ Note: Every bit of data is stored.`
 
-- Public to everyone.
+>Public to everyone.
 
 ### Intranet
 
@@ -233,7 +233,7 @@ It is responsible for carrying the majority of Network traffic.
 - Keeps your network private, or secure from outside sources.
 - Same services and protocol as the Internet.
 - Accessed the same way you would a web page, through your browser.
-- Private Internet.
+> Private Internet.
 
 ### Extranet
 
@@ -241,7 +241,7 @@ It is responsible for carrying the majority of Network traffic.
 - Helps administrators maintain the rest of your network.
 - Allows individuals like vendors to have minimal access.
 - An extension of an entity’s Internet.
-- Let other people from other organizations have access to it.
+> Let other people from other organizations have access to it.
 
 ### Segment:
 
