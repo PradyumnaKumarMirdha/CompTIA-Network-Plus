@@ -319,11 +319,13 @@ Wired : Connection through NIC or directly through cross over cable.
 - A wireless connection that is either point to point, or Multipoint. Also considered a **Broadcast** connection.
 
 > UNICAST - One recipeent
+<br>
 > MULTICAST - Two or more Recipeents
+<br>
 > BROADCAST - All Recipeents
 
 ### Physical Bus Topology:
 
 <p align="center">
-<img src="https://images.squarespace-cdn.com/content/v1/540f5515e4b06c4e8629c108/1604312009245-12NSQUPEWGZDAZUP5XA4/bus.jpg" height="300" weight="200"/>
+<img src="https://www.hitechmv.com/wp-content/uploads/2014/05/bus_network1.gif" height="300" weight="200"/>
 </p>
