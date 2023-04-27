@@ -268,4 +268,13 @@ A portion of a network with linked devices separated by a connectivity device su
 ## 1.3. Network Topologies
 ![[1.6. network-topologies-header.jpg]]
 
-M
+### Module
+🔲 Topology<br>
+🔲 Physical T<br>
+🔲 Internet, Intranet, Extranet<br>
+🔲 Centralized Network<br>
+🔲 Client-Server Network<br>
+🔲Peer-to-Peer Network<br>
+🔲 Mixed Mode Network<br>
+🔲 Centralized Network<br>
+🔲 Client-Server Network
