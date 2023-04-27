@@ -284,4 +284,13 @@ A portion of a network with linked devices separated by a connectivity device su
 ### Topology:
 
 - Describes the arrangement or layout of a communication network.
-- Lines out the path sda
+- Lines out the path data communication will take.
+- Allows administrators to understand how the devices are connected on the network.
+- Two type of Topology: 
+	1. Physical Topology
+	2. Logical Topology
+**Physical Topology** -  How the devices are actually connted to one another.
+								 Describes the shape of the network takes.
+								 Allows the administrators to understand how the physcial media, or cales, connects the devices together.
+**Logical Topology** - Describes the patway data will take, regardless of the physical connection.
+								
