@@ -170,3 +170,81 @@ It is responsible for carrying the majority of Network traffic.
 🔲 Mixed Mode Network<br>
 🔲 Centralized Network<br>
 🔲 Client-Server Network<br>
+---
+### LAN- Local Area Network:
+
+- Spans the geographical area of a small building.
+- The most commonly implemented technology is Ethernet, however, it is not limited to only Ethernet Technology.
+- The Nodes in a LAN are directly connected to one another by cable or short-range wireless.
+- Does not require a line to be leased from a service provider.
+
+### LAN Administrator Duties:
+
+- Broad range of versatile skills is needed.
+- Responsible for maintaining and managing the Local Network.
+- Should handle tasks like Hardware, software, Deployment, Upgrades, Installation, and Troubleshooting of Network Components.
+- Responds to User requirements.
+
+### WAN- Wide Area Network:
+
+- Spans a large Geographical area, and often multiple areas.
+- Connects Multiple Local Area Networks together.
+- Utilizes long Range Communication such as satellite, or Radiofrequency.
+- Can be private, like International Corp., or public. The world’s largest Public WAN is the **Internet**.
+
+### Types of  WANs:
+
+- PAN - Personal Area Network [ Bluetooth ]
+- CAN - Campus Area Network [ School, Colleges ]
+- MAN - Metropolitan Area Network [ city ]
+- GAN - Global Area Network [ Satellite ]
+    - Controlled by One Company
+- EN - Enterprise Network
+    - An EN is a network that typically is comprised of components of both a WAN and LAN and is owned and operated by a single organization or company.
+    
+
+### WAN Administrator Duties:
+
+- Specialized in their respective fields.
+    - Need to be fluent in routing structure.
+    - Troubleshooting network issues.
+    - More responsible for data vs voice system.
+- Network-oriented tasks, rather user-oriented tasks. [ Backend ]
+- Developing and programming scripts for network task automation.
+- Testing and implementing software and hardware upgrades, network-wide.
+
+### Internet
+
+- Used for many things including sending email.
+- Completing commercial and private transactions.
+- Connecting network in the same room or thousand miles away.
+- World uses for communication.
+- The world’s single largest Global - Wide Area Network.
+
+ `✏ **Note:** *Every bit of data is stored.*`
+
+- Public to everyone.
+
+### Intranet
+
+- An organization’s private version of the Internet.
+- Keeps your network private, or secure from outside sources.
+- Same services and protocol as the Internet.
+- Accessed the same way you would a web page, through your browser.
+- Private Internet.
+
+### Extranet
+
+- A portion of your network that is opened to limited outside sources.
+- Helps administrators maintain the rest of your network.
+- Allows individuals like vendors to have minimal access.
+- An extension of an entity’s Internet.
+- Let other people from other organizations have access to it.
+
+### Segment:
+
+A portion of a network with linked devices separated by a connectivity device such as a switch.
+
+<p align=”center” >
+
+<img src=”[https://imgs.search.brave.com/4XNfLm8sFt5f9gHrGBVwOpN5tuyS7rP0hsOLrNEklIU/rs:fit:707:299:1/g:ce/aHR0cHM6Ly9pbnNp/Z2h0cy5zZWkuY211/LmVkdS9tZWRpYS9p/bWFnZXMvRmlnMl9T/ZWdtZW50ZWRfTmV0/d29ya19BcmNoaXRl/Y3R1cmUubWF4LTcz/MHg3MzMucG5n](https://imgs.search.brave.com/4XNfLm8sFt5f9gHrGBVwOpN5tuyS7rP0hsOLrNEklIU/rs:fit:707:299:1/g:ce/aHR0cHM6Ly9pbnNp/Z2h0cy5zZWkuY211/LmVkdS9tZWRpYS9p/bWFnZXMvRmlnMl9T/ZWdtZW50ZWRfTmV0/d29ya19BcmNoaXRl/Y3R1cmUubWF4LTcz/MHg3MzMucG5n)” /></p>
