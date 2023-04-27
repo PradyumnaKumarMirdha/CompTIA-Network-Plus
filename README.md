@@ -248,10 +248,10 @@ A portion of a network with linked devices separated by a connectivity device su
 <img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.4. segmetnt.png" height="300" weight="200"/>
 </p>
 
-### Network Model:
+## Network Model:
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/main/Figures/1.5.%20Network%20Model.bmp?token=GHSAT0AAAAAACAPQT2U43UWEK7PDGMTD2PWZCKRYGA" height="300" weight="200"/>
+<img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.5.%20Network%20Model.png" height="300" weight="200"/>
 </p>
 
 **1. Centralized Network**
@@ -266,6 +266,8 @@ A portion of a network with linked devices separated by a connectivity device su
 - Combine the functionlities of more than one of the three different networks.
 
 **` ✏ NOTE: Mixed mode is not used in enterpirse because of lack of control.`**
+
+---
 
 ## 1.3. Network Topologies
 <p align="center">
