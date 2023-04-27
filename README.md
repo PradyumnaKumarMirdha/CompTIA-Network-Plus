@@ -156,9 +156,9 @@ Self Managed and Self Contained.
 ---
 ## 1.2. Network Categories and Models
 
-<p align="center" >
-
-<img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.2.%20categories.png" /></p>
+<p align="center">
+<img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.2.%20categories.png" />
+</p>
 
 ### Module
 
