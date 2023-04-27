@@ -82,12 +82,12 @@ _____________________________________
 ---
 <h1> 1. INTRODUCTION </h1>
 
+## 1.1. Networking & Terminology
 <p align="center">
   <img src="https://imgs.search.brave.com/pifhuX6n6wWoPBwtO1eTvqAztTxpMv4S6r71EzJrhQE/rs:fit:1200:800:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaWRnZXNnLm5l/dC9pbWFnZXMvYXJ0/aWNsZS8yMDE3LzA3/L3dpLWZpX3dpcmVs/ZXNzX2NvbW11bmlj/YXRpb25fbmV0d29y/a19hYnN0cmFjdF90/aGlua3N0b2NrXzYx/MDEyNzk4NF8xMjAw/eDgwMC0xMDA3MzAx/MDctbGFyZ2UuanBn" alt="image description" height="400" weigth="500" />
 </p>
 
-## 1.1. Networking & Terminology
-
+## Module
 
 🔲 Network and Computer Network<br>
 🔲 Components of network<br>
@@ -160,7 +160,7 @@ Self Managed and Self Contained.
 <img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.2.%20categories.png" />
 </p>
 
-### Module
+## Module
 
 🔲 Characteristics of LAN<br>
 🔲 Characteristics of WAN<br>
