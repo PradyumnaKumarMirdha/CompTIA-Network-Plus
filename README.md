@@ -369,4 +369,6 @@ Wired : Connection through NIC or directly through cross over cable.
 - Highly reliable and efficient.
 > Expensive and difficult to implement.
 
-`✏ NOTE: Large scale implementation that need high redundency and efficiency. `
+**`✏ NOTE: Large scale implementation that need high redundency and efficiency. `**
+
+### Hybrid Topology:
