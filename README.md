@@ -281,4 +281,6 @@ A portion of a network with linked devices separated by a connectivity device su
 
 ---
 
-### Topology 
+### Topology:
+
+Describes the arrangement or layout of a communication network.
