@@ -320,7 +320,6 @@ Wired : Connection through NIC or directly through cross over cable.
 
 ### Physical Bus Topology:
 
-![[bus.jpg]]
 <p align="center">
 <img src="https://images.squarespace-cdn.com/content/v1/540f5515e4b06c4e8629c108/1604312009245-12NSQUPEWGZDAZUP5XA4/bus.jpg" height="300" weight="200"/>
 </p>
