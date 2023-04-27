@@ -309,3 +309,9 @@ A portion of a network with linked devices separated by a connectivity device su
 
 #### Point to Point Connections:
 - A direct connection between two nodes on a network.
+***Example:***
+Wireless : Connection through infrared like Remote and TV.
+Wired : Connection through NIC or directly through cross over cable.
+
+#### Multipoint Connections:
+- Nodes on a ndtwork are connected to two or more nodes simultaneously. Signals are n
