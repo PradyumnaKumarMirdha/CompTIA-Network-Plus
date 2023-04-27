@@ -354,5 +354,12 @@ Wired : Connection through NIC or directly through cross over cable.
 <p align="center">
 <img src="https://cdn.comparitech.com/wp-content/uploads/2018/11/Tree-Topology.jpg" height="300" weight="200"/>
 </p>
-**`✏ NOTE: Higher the branching factor the longer it takes data to travel from one node to another.`**
-> Easer to tro
+- It is scalable. 
+- Easer to troubleshoot
+> If connection is intruputed then none of the child could talk.
+
+**`✏ NOTE: Higher the branching factor the longer it takes data to travel from one node to another.
+`**
+
+### Physical Mesh Topology:
+
