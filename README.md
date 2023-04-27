@@ -331,7 +331,7 @@ Wired : Connection through NIC or directly through cross over cable.
 <p align="center">
 <img src="https://www.hitechmv.com/wp-content/uploads/2014/05/bus_network1.gif" height="300" weight="200"/>
 </p>
->🔴 When the data is transmitted signal is going to bounce up off the ends  which will interupt the transmission. To stop that bounce from occuring Terminators are used (50 ohm).
+> 🔴 When the data is transmitted signal is going to bounce up off the ends  which will interupt the transmission. To stop that bounce from occuring Terminators are used (50 ohm).
 
 ### Physical Star Topology:
 <p align="center">
