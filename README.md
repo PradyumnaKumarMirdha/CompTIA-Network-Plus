@@ -247,14 +247,13 @@ A portion of a network with linked devices separated by a connectivity device su
 <p align="center">
 <img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.4. segmetnt.png" height="300" weight="200"/>
 </p>
-<<<<<<< HEAD
-
-=======
->>>>>>> 6f035fb50182e96682ababfcf087dd1241657a75
 
 ### Network Model:
 
-![[1.5. Network Model.bmp]]
+<p align="center">
+<img src="https://raw.githubusercontent.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/main/Figures/1.5.%20Network%20Model.bmp?token=GHSAT0AAAAAACAPQT2US3PUF44QFROKOMUIZCKQJCQ" height="300" weight="200"/>
+</p>
+
 1. Centralized Network
 2. Client/Server Network
 
