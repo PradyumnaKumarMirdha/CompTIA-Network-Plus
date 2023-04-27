@@ -266,7 +266,7 @@ A portion of a network with linked devices separated by a connectivity device su
 **` ✏ NOTE: Mixed mode is not used in enterpirse because of lack of control.`**
 
 ## 1.3. Network Topologies
-![[1.6. network-topologies-header.jpg]]
+![[1.6. 1.6. network-topologies-header.jpg]]
 
 ## Module
 
