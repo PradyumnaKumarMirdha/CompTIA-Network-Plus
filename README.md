@@ -407,6 +407,12 @@ Inspite of haveing any kind of physical connection logical topology can be diffe
 🔲 STP and UTP<br>
 🔲 Coax connectors<br>
 🔲 Fiber Optic Media<br>
-🔲Ring Topology<br>
-🔲 Tree Topology<br>
-🔲 Mesh Topology<br>
+🔲568/A/B and /C standards<br>
+🔲 Premise Wiring and Structured Cabling<br>
+
+---
+
+### Network Media
+- The medium used for telecommunication between network devices.
+- Network media can be classified according to the hardware and technology associated with it.
+- There are both wired and wireless technologies that are associated with network media.
