@@ -439,6 +439,9 @@ Inspite of haveing any kind of physical connection logical topology can be diffe
 -   Pairs are wrapped in another plastic sheath.
 -   Will utilize an RJ-45 connector for data.
 
-T568/A cabled
-
+#### T568/A cable
 <p align="center"> <img src="https://images.theengineeringprojects.com/image/webp/2018/07/introduction-to-rj45-4.png.webp?ssl=1"/> </p>
+
+> 🔴 The difference between /A and /B is that the first two pin of T-568A 1 and 2 are swapped with pin 3 and 6. 
+
+### STP and UTP cable:
