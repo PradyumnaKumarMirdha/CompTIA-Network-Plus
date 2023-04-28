@@ -426,4 +426,6 @@ Inspite of haveing any kind of physical connection logical topology can be diffe
 - Copper and fiber optic calbes are example of Bounded Network Media.
 -   Utilizes a physical conductor such as metal wire or a glass or plastic core cable.
 #### **`Copper Media`**
-	- Either a single copper core, or made up of twisted pars of copper
+	- Either a single copper core, or made up of twisted pars of copper strands.
+		- These transmits data in the form of electromagnetic energy.
+	-Most common implementations are Coaxial(Coax) Cable and Twisted Pair Cable. 
