@@ -396,4 +396,17 @@ Inspite of haveing any kind of physical connection logical topology can be diffe
 
 ---
 ## 1.4. Network Hardware Bounded
+<p align="center">
+<img src="https://media.istockphoto.com/id/1251503688/photo/fiber-optics-cable.jpg?s=612x612&w=0&k=20&c=UR7wy5xKDV8zYfe7ZGhupzjCe_Ch3lVwCywJ6IU6klk="/>
+</p>
 
+### Module
+
+🔲 Network Media and Bounded Media<br>
+🔲 Copper Media<br>
+🔲 STP and UTP<br>
+🔲 Coax connectors<br>
+🔲 Fiber Optic Media<br>
+🔲Ring Topology<br>
+🔲 Tree Topology<br>
+🔲 Mesh Topology<br>
