@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,12 +157,12 @@
   },
   "active": "d6b0ce79816158f3",
   "lastOpenFiles": [
+    "Guide.md",
+    "README.md",
     "bus 1.jpg",
     "bus.jpg",
-    "README.md",
     "conflict-files-obsidian-git.md",
     "Figures/1.5. Network Model.bmp",
-    "Guide.md",
     "Figures/1.5. Network Model.png",
     "Figures/1.5. Network Model - Copy.bmp",
     "Figures/1.6. network-topologies-header.jpg",
