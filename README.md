@@ -393,3 +393,4 @@ Wired : Connection through NIC or directly through cross over cable.
 <img src="https://www.computernetworkingnotes.org/images/networking-tutorials/nt26-04-network-topology-physical-toplogy-logical-topology.png"/>
 </p>
 Inspite of haveing any kind of physical connection logical topology can be different.
+---
