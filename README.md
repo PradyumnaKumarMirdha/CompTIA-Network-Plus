@@ -424,4 +424,6 @@ Inspite of haveing any kind of physical connection logical topology can be diffe
 ### Bounded Network Media:
 - Actual physical media. Media that can be felt, and seen.
 - Copper and fiber optic calbes are example of Bounded Network Media.
-- Utilizes a physical conductor such as metal wire or 
+-   Utilizes a physical conductor such as metal wire or a glass or plastic core cable.
+#### **`Copper Media`**
+	- Either a single copper core, or made up of twisted pars of copper
