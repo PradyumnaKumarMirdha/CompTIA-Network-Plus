@@ -414,7 +414,14 @@ Inspite of haveing any kind of physical connection logical topology can be diffe
 
 ---
 
-### Network Media
+### Network Media:
 - The medium used for telecommunication between network devices.
 - Network media can be classified according to the hardware and technology associated with it.
 - There are both wired and wireless technologies that are associated with network media.
+
+> 🔴 Bounded here is the wired network media.
+
+### Bounded Network Media:
+- Actual physical media. Media that can be felt, and seen.
+- Copper and fiber optic calbes are example of Bounded Network Media.
+- Utilizes a physical conductor such as metal wire or 
