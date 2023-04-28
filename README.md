@@ -433,3 +433,12 @@ Inspite of haveing any kind of physical connection logical topology can be diffe
 -   Foil metal braids helps to prevent EMI(Electro Magnetic Interference).
 
 #### **`Twisted Pair Cable`**
+
+-   Two or more pairs of cable twisted together.
+-   Color coded wrapped plastic.
+-   Pairs are wrapped in another plastic sheath.
+-   Will utilize an RJ-45 connector for data.
+
+T568/A cabled
+
+<p align="center"> <img src="https://images.theengineeringprojects.com/image/webp/2018/07/introduction-to-rj45-4.png.webp?ssl=1"/> </p>
