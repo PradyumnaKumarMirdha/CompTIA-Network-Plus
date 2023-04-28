@@ -355,7 +355,7 @@ Wired : Connection through NIC or directly through cross over cable.
 </p>
 - Each connected to Upstream and Downstram Neighbors only.
 - Traffic is unidirectional only.
-- **Dual Ring Topology** is redundant connection.
+- *Dual Ring Topology* is redundant connection.
 
 > Data may take longer time to reach its destination.
 
