@@ -462,18 +462,18 @@ Wired : Connection through NIC or directly through cross over cable.
 
 ### Twisted Pair Cabling Categories:
 
-Category | Data Rate | Max Length | Application
-	---- | ---- | ---- | ---- 
-	CAT1 | Upto 1 Mbps | | Old Telephone cables. Voice only... Outdated
-	CAT2 | Upto 4 Mbps | | Token Ring, Token based networks only... Outdated
-	Cat3 | 10 Mbps | 100m | Voice Traffic. [TIA/EIA]. Token Ring & 10 Base-T Ethernet
-	CAT4 | 15 Mbps | 100m | Token Ring Networks.Superseded by CAT5. Rarely used today.
-	CAT5 | 100 Mbps | 100m | Fast Ethernet. 100Mhz Frequency.8p8c, RJ45 connector.
-	CAT5e | 1 Gbps | 100m | addressed crosstalk issues. 100Mhz Frequency.
-	CAT6 | 10 Gbps | 100m | Gigabit Ethernet 200-250Mhz. 10Gbps upto 55meter.
-	CAT6a | 10 Gbps | 100m | Augmented CAT6. 500 Mhz. 328 feet.
-	CAT7 | 10 Gbps+ | 100m | 10/100 Base T, GG45, TERA connector. 600Mhz.
-	CAT7a | 10 Gbps | 100m | 1/100 Base T. 1000MHz. Additional shielding than cat7.
+| Category | Data Rate | Max Length | Application |
+| ---- | ---- | ---- | ---- | 
+| CAT1 | Upto 1 Mbps | | Old Telephone cables. Voice only... Outdated |
+| CAT2 | Upto 4 Mbps | | Token Ring, Token based networks only... Outdated |
+| Cat3 | 10 Mbps | 100m | Voice Traffic. [TIA/EIA]. Token Ring & 10 Base-T Ethernet |
+| CAT4 | 15 Mbps | 100m | Token Ring Networks.Superseded by CAT5. Rarely used today. |
+| CAT5 | 100 Mbps | 100m | Fast Ethernet. 100Mhz Frequency.8p8c, RJ45 connector. |
+| CAT5e | 1 Gbps | 100m | addressed crosstalk issues. 100Mhz Frequency. |
+| CAT6 | 10 Gbps | 100m | Gigabit Ethernet 200-250Mhz. 10Gbps upto 55meter. |
+| CAT6a | 10 Gbps | 100m | Augmented CAT6. 500 Mhz. 328 feet. |
+| CAT7 | 10 Gbps+ | 100m | 10/100 Base T, GG45, TERA connector. 600Mhz. |
+| CAT7a | 10 Gbps | 100m | 1/100 Base T. 1000MHz. Additional shielding than cat7. |
 
 #### CAT7  network cable
 
@@ -483,9 +483,9 @@ Category 7 wire has four shielded twisted copper pairs and an overall cable shie
 #### Difference between CAT 6 and CAT 7
 
 <p align="center"> <img src="https://stl.tech/wp-content/uploads/2022/08/img8.png"/> </p>
-**Cat7** has a higher frequency than Cat6. As a result, a **CAT 7 shielded ethernet cable** will be able to transfer data faster than a Cat6 cable. **The Cat** **7 shielded** **cable** performance and longevity criteria are also more stringent.
+Cat7 has a higher frequency than Cat6. As a result, a CAT 7 shielded ethernet cable will be able to transfer data faster than a Cat6 cable. The Cat 7 shielded cable performance and longevity criteria are also more stringent.
 
 #### CAT 8 cable
 <p align="center"> <img src="https://stl.tech/wp-content/uploads/2022/08/img13.jpg"/> </p>
-Category 8, or Cat8, cable, is a type of **Ethernet** **cable** that is distinct from other cables. It can operate at a frequency of up to 2 GHz (2000 MHz). This is the main **difference between Cat7 and Cat8.** **Cat 8 ethernet cable** is restricted to a 30-meter 2-connector channel. It also necessitates shielded cabling.
+Category 8, or Cat8, cable, is a type of Ethernet cable that is distinct from other cables. It can operate at a frequency of up to 2 GHz (2000 MHz). This is the main difference between Cat7 and Cat8. Cat 8 ethernet cable is restricted to a 30-meter 2-connector channel. It also necessitates shielded cabling.
 
