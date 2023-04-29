@@ -426,18 +426,19 @@ Wired : Connection through NIC or directly through cross over cable.
 
 > 🔴 Bounded here is the wired network media.
 
-### Bounded Network Media:
+## Bounded Network Media:
 - Actual physical media. Media that can be felt, and seen.
 - Copper and fiber optic calbes are example of Bounded Network Media.
 -   Utilizes a physical conductor such as metal wire or a glass or plastic core cable.
-### **`Copper Media`**
+
+## **`Copper Media`**
 
 -   Either a single copper core, or made up of twisted pars of copper strands.
     -   These transmits data in the form of electromagnetic energy.
 -   Most common implementations are Coaxial(Coax) Cable and Twisted Pair Cable.
 -   Foil metal braids helps to prevent EMI(Electro Magnetic Interference).
 
-#### **`Twisted Pair Cable`**
+## **`Twisted Pair Cable`**
 
 -   Two or more pairs of cable twisted together.
 -   Color coded wrapped plastic.
@@ -499,7 +500,7 @@ Cat7 has a higher frequency than Cat6. As a result, a CAT 7 shielded ethernet 
 <p align="center"> <img src="https://i.ebayimg.com/images/g/tSIAAOSw2Qtc-NHa/s-l1600.jpg"  height="300" weight="200"/> </p>
 Category 8, or Cat8, cable, is a type of Ethernet cable that is distinct from other cables. It can operate at a frequency of up to 2 GHz (2000 MHz). This is the main difference between Cat7 and Cat8. Cat 8 ethernet cable is restricted to a 30-meter 2-connector channel. It also necessitates shielded cabling.
 
-### Coax Cable:
+## **`Coax Cable:`**
 <body bgcolor="white">
 <p align="center"> <img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.7.%20coax%20cable.gif"  height="300" weight="200" /> </p>
 </body>
@@ -511,6 +512,10 @@ Category 8, or Cat8, cable, is a type of Ethernet cable that is distinct from
 - RG62 uses fro ARCNET protocol networking.93 ohm impedance, 5mm.
 - RG59 used for lowpower video and receiver.75 ohms, 6mm.
 - RG6 cable TV signal routing. Now common. 75 ohms.
+
 #### Types :
 
 <p align="center"> <img src="https://www.iothotspots.network/wp-content/uploads/2021/05/Coaxial-cable-connector-types-1210x425.jpg" /> </p>
+## **`Fiber Optics:`**
+
+<p align="center"> <img src="https://static.wixstatic.com/media/991a9f_f58d6a3cab3246b486087cd1a27f2bea~mv2.jpg/v1/fill/w_566,h_272,al_c,lg_1,q_80,enc_auto/991a9f_f58d6a3cab3246b486087cd1a27f2bea~mv2.jpg" /> </p>
