@@ -334,14 +334,14 @@ Wired : Connection through NIC or directly through cross over cable.
 ### Physical Bus Topology:
 
 <p align="center">
-<img src="https://www.hitechmv.com/wp-content/uploads/2014/05/bus_network1.gif" height="300" weight="200"/>
+<img src="https://www.hitechmv.com/wp-content/uploads/2014/05/bus_network1.gif" height="300" width="400"/>
 </p>
 
 > 🔴 When the data is transmitted signal is going to bounce up off the ends  which will interupt the transmission. To stop that bounce from occuring Terminators are used (50 ohm).
 
 ### Physical Star Topology:
 <p align="center">
-<img src="https://cdn.comparitech.com/wp-content/uploads/2018/11/star-Topology.jpg" height="300" weight="200"/>
+<img src="https://cdn.comparitech.com/wp-content/uploads/2018/11/star-Topology.jpg" height="300" width="400"/>
 </p>
 
 - Centralized connection(Switch or Hub).
@@ -352,7 +352,7 @@ Wired : Connection through NIC or directly through cross over cable.
 ### Physical Ring Topology:
 
 <p align="center">
-<img src="https://cdn.comparitech.com/wp-content/uploads/2018/11/Dual-Ring-Topology.jpg" height="300" weight="200"/>
+<img src="https://cdn.comparitech.com/wp-content/uploads/2018/11/Dual-Ring-Topology.jpg" height="300" width="400"/>
 </p>
 
 - Each connected to Upstream and Downstram Neighbors only.
@@ -377,7 +377,7 @@ Wired : Connection through NIC or directly through cross over cable.
 
 ### Physical Mesh Topology:
 <p align="center">
-<img src="https://www.nakivo.com/blog/wp-content/uploads/2021/04/The-mesh-network-topology-the-full-mesh-and-partial-mesh.png" height="300" width="300"/>
+<img src="https://www.nakivo.com/blog/wp-content/uploads/2021/04/The-mesh-network-topology-the-full-mesh-and-partial-mesh.png" height="300" width="400"/>
 </p>
 
 - Each are connected to other.
@@ -396,7 +396,7 @@ Wired : Connection through NIC or directly through cross over cable.
 
 ### Logical Topology Over Physical Connection:
 <p align="center">
-<img src="https://www.computernetworkingnotes.org/images/networking-tutorials/nt26-04-network-topology-physical-toplogy-logical-topology.png"/>
+<img src="https://www.computernetworkingnotes.org/images/networking-tutorials/nt26-04-network-topology-physical-toplogy-logical-topology.png" height="300"/>
 </p>
 
 > Inspite of haveing any kind of physical connection logical topology can be different.
@@ -404,7 +404,7 @@ Wired : Connection through NIC or directly through cross over cable.
 ---
 ## 1.4. Network Hardware Bounded
 <p align="center">
-<img src="https://bkp4link.com/wp-content/uploads/2020/06/Webp.net-gifmaker-24.gif" height="300" width="500" />
+<img src="https://bkp4link.com/wp-content/uploads/2020/06/Webp.net-gifmaker-24.gif" height="500" width="600" />
 </p>
 
 ### Module
