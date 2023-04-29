@@ -462,7 +462,8 @@ Wired : Connection through NIC or directly through cross over cable.
 
 ### Twisted Pair Cabling Categories:
 
-	Category | Data Rate | Max Length |Application
+	Category | Data Rate | Max Length | Application
+	---- | ---- | ---- | ---- 
 	CAT1 | Upto 1 Mbps | | Old Telephone cables. Voice only... Outdated
 	CAT2 | Upto 4 Mbps | | Token Ring, Token based networks only... Outdated
 	Cat3 | 10 Mbps | 100m | Voice Traffic. [TIA/EIA]. Token Ring & 10 Base-T Ethernet
@@ -477,4 +478,14 @@ Wired : Connection through NIC or directly through cross over cable.
 #### CAT7  network cable
 
 <p align="center"> <img src="https://stl.tech/wp-content/uploads/2022/08/img4-1.jpg"/> </p>
+Category 7 wire has four shielded twisted copper pairs and an overall cable shield. This helps it meet the strict signal loss over distance criteria and ensures Cat7 cable is better at protecting against possible degradation caused by crosstalk and EMI.
+
+#### Difference between CAT 6 and CAT 7
+
+<p align="center"> <img src="https://stl.tech/wp-content/uploads/2022/08/img8.png"/> </p>
+**Cat7** has a higher frequency than Cat6. As a result, a **CAT 7 shielded ethernet cable** will be able to transfer data faster than a Cat6 cable. **The Cat** **7 shielded** **cable** performance and longevity criteria are also more stringent.
+
+#### CAT 8 cable
+<p align="center"> <img src="https://stl.tech/wp-content/uploads/2022/08/img13.jpg"/> </p>
+Category 8, or Cat8, cable, is a type of **Ethernet** **cable** that is distinct from other cables. It can operate at a frequency of up to 2 GHz (2000 MHz). This is the main **difference between Cat7 and Cat8.** **Cat 8 ethernet cable** is restricted to a 30-meter 2-connector channel. It also necessitates shielded cabling.
 
