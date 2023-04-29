@@ -272,6 +272,9 @@ A portion of a network with linked devices separated by a connectivity device su
 
 **` ✏ NOTE: Mixed mode is not used in enterpirse because of lack of control.`**
 
+[Router & Switch - By David Bombal shorts](https://www.youtube.com/shorts/z78TCiMrk2w)
+[Hub & Switches - By David Bombal shorts](https://www.youtube.com/shorts/0hKUZC6L99g)
+
 ---
 
 ## 1.3. Network Topologies
@@ -337,8 +340,9 @@ Wired : Connection through NIC or directly through cross over cable.
 <img src="https://www.hitechmv.com/wp-content/uploads/2014/05/bus_network1.gif" height="300" width="400"/>
 </p>
 
-> 🔴 When the data is transmitted signal is going to bounce up off the ends  which will interupt the transmission. To stop that bounce from occuring Terminators are used (50 ohm).
+> 🔴 When the data is transmitted signal is going to bounce up off the ends  which will **interupt the transmission**. To stop that bounce from occuring Terminators are used (50 ohm).
 
+[Terminator - By David Bombal shorts](https://www.youtube.com/shorts/unBOHR7BjwY)
 ### Physical Star Topology:
 <p align="center">
 <img src="https://cdn.comparitech.com/wp-content/uploads/2018/11/star-Topology.jpg" height="300" width="400"/>
@@ -522,9 +526,9 @@ Category 8, or Cat8, cable, is a type of Ethernet cable that is distinct from
 <p align="center"> <img src="https://control.com/uploads/articles/antenna-cable-connectors.jpeg" /> </p>
 
 T-connector -
-https://ecomputernotes.com/images/BNC-Connector.jpg
+<p align="center"> <img src="https://ecomputernotes.com/images/BNC-Connector.jpg" /> </p>
 
-[cables Demonstration - By David Bombal shorts](https://youtube.com/shorts/wjGFR38JFUE?feature=share)
+`IMPORTN`[cables Demonstration - By David Bombal shorts](https://youtube.com/shorts/wjGFR38JFUE?feature=share)
 ## **`Fiber Optics:`**
 
 <p align="center"> <img src="https://ripley-tools.com/wp-content/uploads/2022/10/RIP1706-Ripley-Fibre-Cable-Anatomy-v21024_1.jpg" height="300" width="500" /> </p>
@@ -537,3 +541,4 @@ https://ecomputernotes.com/images/BNC-Connector.jpg
 
 ### Fiber optic cable type
 <p align="center"> <img src="https://www.cablematters.com/blog/image.axd?picture=/ArticlePhotos/Fiber-Optic-Cable-Types-A-Complete-Guide_2.jpg" /> </p>
+[Fiber Cable types - By David Bombal shorts](https://www.youtube.com/shorts/x7bSegjbfbU) 
