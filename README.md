@@ -518,4 +518,13 @@ Category 8, or Cat8, cable, is a type of Ethernet cable that is distinct from
 <p align="center"> <img src="https://www.iothotspots.network/wp-content/uploads/2021/05/Coaxial-cable-connector-types-1210x425.jpg" /> </p>
 ## **`Fiber Optics:`**
 
-<p align="center"> <img src="https://static.wixstatic.com/media/991a9f_f58d6a3cab3246b486087cd1a27f2bea~mv2.jpg/v1/fill/w_566,h_272,al_c,lg_1,q_80,enc_auto/991a9f_f58d6a3cab3246b486087cd1a27f2bea~mv2.jpg" /> </p>
+<p align="center"> <img src="https://ripley-tools.com/wp-content/uploads/2022/10/RIP1706-Ripley-Fibre-Cable-Anatomy-v21024_1.jpg" height="300" width="500" /> </p>
+- Outer protective layer, or Jacket.
+- Strengthening Fibers typically made of strong material like Kevlar.
+- Color coded buffer surrounding the core cladding.
+- Fiber core, either glass or plastic between 5 and 100 microns in diameter.
+- Filler Material
+- Inner Strengtheing rod.
+
+### Fiber optic cable type
+<p align="center"> <img src="https://www.cablematters.com/blog/image.axd?picture=/ArticlePhotos/Fiber-Optic-Cable-Types-A-Complete-Guide_2.jpg" /> </p>
