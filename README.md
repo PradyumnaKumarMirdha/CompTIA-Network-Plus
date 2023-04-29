@@ -499,3 +499,7 @@ Cat7 has a higher frequency than Cat6. As a result, a CAT 7 shielded ethernet 
 <p align="center"> <img src="https://i.ebayimg.com/images/g/tSIAAOSw2Qtc-NHa/s-l1600.jpg"  height="300" weight="200"/> </p>
 Category 8, or Cat8, cable, is a type of Ethernet cable that is distinct from other cables. It can operate at a frequency of up to 2 GHz (2000 MHz). This is the main difference between Cat7 and Cat8. Cat 8 ethernet cable is restricted to a 30-meter 2-connector channel. It also necessitates shielded cabling.
 
+### Coax Cable:
+
+<p align="center"> <img src="https://storage.bestbuy.com/usweb/html/9215028/user-manual/english/Content/Animated%20Gifs/15-0550_ANT_nobox_connector.gif"  height="300" weight="200"/> </p>
+
