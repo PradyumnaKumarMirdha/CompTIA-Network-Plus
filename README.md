@@ -445,7 +445,7 @@ Wired : Connection through NIC or directly through cross over cable.
 -   Will utilize an RJ-45 connector for data.
 
 #### T568/A cable
-<p align="center"> <img src="https://images.theengineeringprojects.com/image/webp/2018/07/introduction-to-rj45-4.png.webp?ssl=1"/> </p>
+<p align="center"> <img src="https://images.theengineeringprojects.com/image/webp/2018/07/introduction-to-rj45-4.png.webp?ssl=1" height="300" weight="200"/> </p>
 
 > 🔴 The difference between /A and /B is that the first two pin of T-568A 1 and 2 are swapped with pin 3 and 6. 
 
@@ -477,12 +477,12 @@ Wired : Connection through NIC or directly through cross over cable.
 
 #### CAT7  network cable
 
-<p align="center"> <img src="https://stl.tech/wp-content/uploads/2022/08/img4-1.jpg"/> </p>
+<p align="center"> <img src="https://stl.tech/wp-content/uploads/2022/08/img4-1.jpg"  height="300" weight="200"/> </p>
 Category 7 wire has four shielded twisted copper pairs and an overall cable shield. This helps it meet the strict signal loss over distance criteria and ensures Cat7 cable is better at protecting against possible degradation caused by crosstalk and EMI.
 
 #### Difference between CAT 6 and CAT 7
 
-<p align="center"> <img src="https://www.hdcabling.co.za/wp-content/uploads/2022/08/CAT5e_vs_CAT6A_vs_CAT7_Differences_in_Construction.jpg"/> </p>
+<p align="center"> <img src="https://www.hdcabling.co.za/wp-content/uploads/2022/08/CAT5e_vs_CAT6A_vs_CAT7_Differences_in_Construction.jpg" /> </p>
 Cat7 has a higher frequency than Cat6. As a result, a CAT 7 shielded ethernet cable will be able to transfer data faster than a Cat6 cable. The Cat 7 shielded cable performance and longevity criteria are also more stringent.
 
 - Unshielded Twisted pair (UTP)
@@ -494,9 +494,9 @@ Cat7 has a higher frequency than Cat6. As a result, a CAT 7 shielded ethernet 
 #### CAT6  variants:
 
 <p align="center"> <img src="https://www.hdcabling.co.za/wp-content/uploads/2023/02/CAT6_vs_CAT6A_vs_CAT6e_Mhz_Speed_Bandwidth_Diagram-1536x1155.jpg
-"/> </p>
+"  height="300" weight="200"/> </p>
 
 #### CAT 8 cable
-<p align="center"> <img src="https://i.ebayimg.com/images/g/tSIAAOSw2Qtc-NHa/s-l1600.jpg"/> </p>
+<p align="center"> <img src="https://i.ebayimg.com/images/g/tSIAAOSw2Qtc-NHa/s-l1600.jpg"  height="300" weight="200"/> </p>
 Category 8, or Cat8, cable, is a type of Ethernet cable that is distinct from other cables. It can operate at a frequency of up to 2 GHz (2000 MHz). This is the main difference between Cat7 and Cat8. Cat 8 ethernet cable is restricted to a 30-meter 2-connector channel. It also necessitates shielded cabling.
 
