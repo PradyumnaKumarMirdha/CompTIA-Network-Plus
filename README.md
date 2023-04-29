@@ -377,7 +377,7 @@ Wired : Connection through NIC or directly through cross over cable.
 
 ### Physical Mesh Topology:
 <p align="center">
-<img src="https://www.nakivo.com/blog/wp-content/uploads/2021/04/The-mesh-network-topology-the-full-mesh-and-partial-mesh.png" height="300" weight="200"/>
+<img src="https://www.nakivo.com/blog/wp-content/uploads/2021/04/The-mesh-network-topology-the-full-mesh-and-partial-mesh.png" height="300" width="300"/>
 </p>
 
 - Each are connected to other.
@@ -404,7 +404,7 @@ Wired : Connection through NIC or directly through cross over cable.
 ---
 ## 1.4. Network Hardware Bounded
 <p align="center">
-<img src="https://media1.giphy.com/media/BEoQKzCJThIWX61f8Q/giphy.gif?cid=ecf05e476uagmqdns71mxm7fsgkpn85deam3txe409ypry87&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img src="https://bkp4link.com/wp-content/uploads/2020/06/Webp.net-gifmaker-24.gif" height="300" />
 </p>
 
 ### Module

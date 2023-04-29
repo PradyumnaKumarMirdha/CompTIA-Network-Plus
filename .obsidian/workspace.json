@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f08a67e1b3d56a1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,10 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3f245c4d0afda40",
+  "active": "f08a67e1b3d56a1e",
   "lastOpenFiles": [
-    "Figures/1.7. coax cable.gif",
+    "gif.md",
     "README.md",
+    "Figures/1.7. coax cable.gif",
     "Guide.md",
     "conflict-files-obsidian-git.md",
     "bus 1.jpg",
