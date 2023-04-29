@@ -343,6 +343,7 @@ Wired : Connection through NIC or directly through cross over cable.
 <p align="center">
 <img src="https://cdn.comparitech.com/wp-content/uploads/2018/11/star-Topology.jpg" height="300" weight="200"/>
 </p>
+
 - Centralized connection(Switch or Hub).
 - Easy to maintain and implement.
 
@@ -353,9 +354,10 @@ Wired : Connection through NIC or directly through cross over cable.
 <p align="center">
 <img src="https://cdn.comparitech.com/wp-content/uploads/2018/11/Dual-Ring-Topology.jpg" height="300" weight="200"/>
 </p>
+
 - Each connected to Upstream and Downstram Neighbors only.
 - Traffic is unidirectional only.
-- **Dual Ring Topology** is redundant connection.
+- *Dual Ring Topology* is redundant connection.
 
 > Data may take longer time to reach its destination.
 
@@ -364,6 +366,7 @@ Wired : Connection through NIC or directly through cross over cable.
 <p align="center">
 <img src="https://cdn.comparitech.com/wp-content/uploads/2018/11/Tree-Topology.jpg" height="300" weight="200"/>
 </p>
+
 - It is scalable. 
 - Easer to troubleshoot
 
@@ -376,6 +379,7 @@ Wired : Connection through NIC or directly through cross over cable.
 <p align="center">
 <img src="https://www.nakivo.com/blog/wp-content/uploads/2021/04/The-mesh-network-topology-the-full-mesh-and-partial-mesh.png" height="300" weight="200"/>
 </p>
+
 - Each are connected to other.
 - Highly reliable and efficient.
 
@@ -394,7 +398,8 @@ Wired : Connection through NIC or directly through cross over cable.
 <p align="center">
 <img src="https://www.computernetworkingnotes.org/images/networking-tutorials/nt26-04-network-topology-physical-toplogy-logical-topology.png"/>
 </p>
-Inspite of haveing any kind of physical connection logical topology can be different.
+
+> Inspite of haveing any kind of physical connection logical topology can be different.
 
 ---
 ## 1.4. Network Hardware Bounded
