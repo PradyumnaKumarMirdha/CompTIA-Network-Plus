@@ -364,7 +364,7 @@ Wired : Connection through NIC or directly through cross over cable.
 ### Physical Tree Topology:
 
 <p align="center">
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20220614165620/Untitled7.gif" height="300" weight="200"/>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20220614165620/Untitled7.gif" />
 </p>
 
 - It is scalable. 
@@ -389,7 +389,7 @@ Wired : Connection through NIC or directly through cross over cable.
 
 ### Hybrid Topology:
 <p align="center">
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20220616230326/Untitled14.gif" height="300" weight="200"/>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20220616230326/Untitled14.gif" />
 </p>
 
 ## Logical Topology:
