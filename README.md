@@ -529,7 +529,7 @@ Category 8, or Cat8, cable, is a type of Ethernet cable that is distinct from
 T-connector -
 <p align="center"> <img src="https://ecomputernotes.com/images/BNC-Connector.jpg" /> </p>
 
-**`IMPORTANT > `**[cables Demonstration - By David Bombal shorts](https://youtube.com/shorts/wjGFR38JFUE?feature=share)
+**`IMPORTANT >`** [cables Demonstration - By David Bombal shorts](https://youtube.com/shorts/wjGFR38JFUE?feature=share)
 ## **`Fiber Optics:`**
 
 <p align="center"> <img src="https://ripley-tools.com/wp-content/uploads/2022/10/RIP1706-Ripley-Fibre-Cable-Anatomy-v21024_1.jpg" height="300" width="500" /> </p>
@@ -542,4 +542,5 @@ T-connector -
 
 ### Fiber optic cable type
 <p align="center"> <img src="https://www.cablematters.com/blog/image.axd?picture=/ArticlePhotos/Fiber-Optic-Cable-Types-A-Complete-Guide_2.jpg" /> </p>
-**`IMPORTANT > `**[Fiber Cable types - By David Bombal shorts](https://www.youtube.com/shorts/x7bSegjbfbU) 
+
+**`IMPORTANT > `** [Fiber Cable types - By David Bombal shorts](https://www.youtube.com/shorts/x7bSegjbfbU) 
