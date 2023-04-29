@@ -503,3 +503,9 @@ Category 8, or Cat8, cable, is a type of Ethernet cable that is distinct from
 
 <p align="center"> <img src="https://storage.bestbuy.com/usweb/html/9215028/user-manual/english/Content/Animated%20Gifs/15-0550_ANT_nobox_connector.gif"  height="300" weight="200"/> </p>
 
+<style>
+body {
+  background-image: url("https://storage.bestbuy.com/usweb/html/9215028/user-manual/english/Content/Animated%20Gifs/15-0550_ANT_nobox_connector.gif");
+  background-color: #FAF9F6;
+}
+</style>
