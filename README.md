@@ -463,4 +463,10 @@ Wired : Connection through NIC or directly through cross over cable.
 ### Twisted Pair Cabling Categories:
 
 	Category | Data Rate | Max Length |Application
-	CAT1 | Upto 1 Mbps | | Old Telephone cables 
+	CAT1 | Upto 1 Mbps | | Old Telephone cables. Voice only... Outdated
+	CAT2 | Upto 4 Mbps | | Token Ring, Token based networks only... Outdated
+	Cat3 | 10 Mbps | 100m | Voice Traffic. [TIA/EIA]. Token Ring & 10 Base-T Ethernet
+	CAT4 | 15 Mbps | 100m | Token Ring Networks.Superseded by CAT5. Rarely used today.
+	CAT5 | 100 Mbps | 100m | Fast Ethernet. 100Mhz Frequency.
+	CAT5e | 1 Gbps | 100m | addressed crosstalk issues. 100Mhz Frequency.
+	CAT6 | 10 Gbps | 100m | Gigabit Ethernet 200-250Mhz
