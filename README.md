@@ -81,7 +81,7 @@ _____________________________________
 
 ## 1.1. Networking & Terminology
 <p align="center">
-  <img src="https://media2.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif?cid=ecf05e47msh9t9z1f6nz3cy2kp5uli846qvixo4sfp9u8oh2&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="image description" height="400" weigth="500" />
+  <img src="https://media2.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif?cid=ecf05e47msh9t9z1f6nz3cy2kp5uli846qvixo4sfp9u8oh2&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="image description" />
 </p>
 
 ## Module
