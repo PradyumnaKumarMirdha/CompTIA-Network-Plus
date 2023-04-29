@@ -404,7 +404,7 @@ Wired : Connection through NIC or directly through cross over cable.
 ---
 ## 1.4. Network Hardware Bounded
 <p align="center">
-<img src="https://bkp4link.com/wp-content/uploads/2020/06/Webp.net-gifmaker-24.gif" height="300" />
+<img src="https://bkp4link.com/wp-content/uploads/2020/06/Webp.net-gifmaker-24.gif" height="300" width="500" />
 </p>
 
 ### Module
