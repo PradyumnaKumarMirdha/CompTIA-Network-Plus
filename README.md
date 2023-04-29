@@ -153,7 +153,7 @@ It is responsible for carrying the majority of Network traffic.
 ## 1.2. Network Categories and Models
 
 <p align="center">
-<img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.2.%20categories.png" height="300" weight="200"/>
+<img src="https://media2.giphy.com/media/3o6gbchrcNIt4Ma8Tu/giphy.gif?cid=ecf05e471j35eujmcesurchtoqu8gi1s6sclq9xb58t6zuy7&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="500" width="200"/>
 </p>
 
 ## Module
