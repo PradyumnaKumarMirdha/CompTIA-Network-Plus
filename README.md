@@ -503,3 +503,11 @@ Category 8, or Cat8, cable, is a type of Ethernet cable that is distinct from
 <body bgcolor="white">
 <p align="center"> <img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.7.%20coax%20cable.gif"  height="300" weight="200" /> </p>
 </body>
+- RG58/U found in older ethernet, solid Core.5mm
+- Uses 50 ohm resistor[impendance] mostly on Bus topology.
+- RG58/AU has stranded core at its center. 5mm
+- RG8 uses fro Ethernet networking but now 50 ohm impendance. 10mm used for backbone wireing and older.
+- RG9 Cable TV and modems.
+- RG62 uses fro ARCNET protocol networking.
+- RG59 used for lowpower video and receiver.
+- RG6 cable TV signal routing. Now common.
