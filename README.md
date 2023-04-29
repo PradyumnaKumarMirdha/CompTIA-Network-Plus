@@ -272,8 +272,9 @@ A portion of a network with linked devices separated by a connectivity device su
 
 **` ✏ NOTE: Mixed mode is not used in enterpirse because of lack of control.`**
 
-[**`IMPORTANT > `**Router & Switch - By David Bombal shorts](https://www.youtube.com/shorts/z78TCiMrk2w)
-[**`IMPORTANT > `**Hub & Switches - By David Bombal shorts](https://www.youtube.com/shorts/0hKUZC6L99g)
+**`IMPORTANT > `** [Router & Switch - By David Bombal shorts](https://www.youtube.com/shorts/z78TCiMrk2w)
+
+**`IMPORTANT > `** [Hub & Switches - By David Bombal shorts](https://www.youtube.com/shorts/0hKUZC6L99g)
 
 ---
 
@@ -342,7 +343,7 @@ Wired : Connection through NIC or directly through cross over cable.
 
 > 🔴 When the data is transmitted signal is going to bounce up off the ends  which will **interupt the transmission**. To stop that bounce from occuring Terminators are used (50 ohm).
 
-[Terminator - By David Bombal shorts](https://www.youtube.com/shorts/unBOHR7BjwY)
+**`IMPORTANT >`** [Terminator - By David Bombal shorts](https://www.youtube.com/shorts/unBOHR7BjwY)
 ### Physical Star Topology:
 <p align="center">
 <img src="https://cdn.comparitech.com/wp-content/uploads/2018/11/star-Topology.jpg" height="300" width="400"/>
@@ -456,7 +457,7 @@ Wired : Connection through NIC or directly through cross over cable.
 
 ### Corssed over ethernet cable
 
-**`IMPORTANT > `**[David Bombal shorts ](https://youtube.com/shorts/XjA-GIS9U5U?feature=share) - Info about cross wired cable on devices.
+**`IMPORTANT >`** [David Bombal shorts ](https://youtube.com/shorts/XjA-GIS9U5U?feature=share) - Info about cross wired cable on devices.
 
 ### STP and UTP cable:
 - **Shielded Twisted Pair Cabling** 
