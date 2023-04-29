@@ -272,8 +272,8 @@ A portion of a network with linked devices separated by a connectivity device su
 
 **` ✏ NOTE: Mixed mode is not used in enterpirse because of lack of control.`**
 
-[Router & Switch - By David Bombal shorts](https://www.youtube.com/shorts/z78TCiMrk2w)
-[Hub & Switches - By David Bombal shorts](https://www.youtube.com/shorts/0hKUZC6L99g)
+[**`IMPORTANT > `**Router & Switch - By David Bombal shorts](https://www.youtube.com/shorts/z78TCiMrk2w)
+[**`IMPORTANT > `**Hub & Switches - By David Bombal shorts](https://www.youtube.com/shorts/0hKUZC6L99g)
 
 ---
 
@@ -456,7 +456,7 @@ Wired : Connection through NIC or directly through cross over cable.
 
 ### Corssed over ethernet cable
 
-[David Bombal shorts ](https://youtube.com/shorts/XjA-GIS9U5U?feature=share) - Info about cross wired cable on devices.
+**`IMPORTANT > `**[David Bombal shorts ](https://youtube.com/shorts/XjA-GIS9U5U?feature=share) - Info about cross wired cable on devices.
 
 ### STP and UTP cable:
 - **Shielded Twisted Pair Cabling** 
@@ -528,7 +528,7 @@ Category 8, or Cat8, cable, is a type of Ethernet cable that is distinct from
 T-connector -
 <p align="center"> <img src="https://ecomputernotes.com/images/BNC-Connector.jpg" /> </p>
 
-`IMPORTN`[cables Demonstration - By David Bombal shorts](https://youtube.com/shorts/wjGFR38JFUE?feature=share)
+**`IMPORTANT > `**[cables Demonstration - By David Bombal shorts](https://youtube.com/shorts/wjGFR38JFUE?feature=share)
 ## **`Fiber Optics:`**
 
 <p align="center"> <img src="https://ripley-tools.com/wp-content/uploads/2022/10/RIP1706-Ripley-Fibre-Cable-Anatomy-v21024_1.jpg" height="300" width="500" /> </p>
@@ -541,4 +541,4 @@ T-connector -
 
 ### Fiber optic cable type
 <p align="center"> <img src="https://www.cablematters.com/blog/image.axd?picture=/ArticlePhotos/Fiber-Optic-Cable-Types-A-Complete-Guide_2.jpg" /> </p>
-[Fiber Cable types - By David Bombal shorts](https://www.youtube.com/shorts/x7bSegjbfbU) 
+**`IMPORTANT > `**[Fiber Cable types - By David Bombal shorts](https://www.youtube.com/shorts/x7bSegjbfbU) 
