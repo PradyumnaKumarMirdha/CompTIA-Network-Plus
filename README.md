@@ -81,7 +81,7 @@ _____________________________________
 
 ## 1.1. Networking & Terminology
 <p align="center">
-  <img src="https://imgs.search.brave.com/pifhuX6n6wWoPBwtO1eTvqAztTxpMv4S6r71EzJrhQE/rs:fit:1200:800:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaWRnZXNnLm5l/dC9pbWFnZXMvYXJ0/aWNsZS8yMDE3LzA3/L3dpLWZpX3dpcmVs/ZXNzX2NvbW11bmlj/YXRpb25fbmV0d29y/a19hYnN0cmFjdF90/aGlua3N0b2NrXzYx/MDEyNzk4NF8xMjAw/eDgwMC0xMDA3MzAx/MDctbGFyZ2UuanBn" alt="image description" height="400" weigth="500" />
+  <img src="https://media2.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif?cid=ecf05e47msh9t9z1f6nz3cy2kp5uli846qvixo4sfp9u8oh2&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="image description" height="400" weigth="500" />
 </p>
 
 ## Module
@@ -404,7 +404,7 @@ Wired : Connection through NIC or directly through cross over cable.
 ---
 ## 1.4. Network Hardware Bounded
 <p align="center">
-<img src="https://media.istockphoto.com/id/1251503688/photo/fiber-optics-cable.jpg?s=612x612&w=0&k=20&c=UR7wy5xKDV8zYfe7ZGhupzjCe_Ch3lVwCywJ6IU6klk="/>
+<img src="https://media1.giphy.com/media/BEoQKzCJThIWX61f8Q/giphy.gif?cid=ecf05e476uagmqdns71mxm7fsgkpn85deam3txe409ypry87&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </p>
 
 ### Module
