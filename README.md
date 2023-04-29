@@ -495,7 +495,7 @@ Cat7 has a higher frequency than Cat6. As a result, a CAT 7 shielded ethernet 
 
 <p align="center"> <img src="https://www.hdcabling.co.za/wp-content/uploads/2023/02/CAT6_vs_CAT6A_vs_CAT6e_Mhz_Speed_Bandwidth_Diagram-1536x1155.jpg"  height="350"/> </p>
 
-#### CAT 8 cable
+#### CAT 8 cable: 
 <p align="center"> <img src="https://i.ebayimg.com/images/g/tSIAAOSw2Qtc-NHa/s-l1600.jpg"  height="300" weight="200"/> </p>
 Category 8, or Cat8, cable, is a type of Ethernet cable that is distinct from other cables. It can operate at a frequency of up to 2 GHz (2000 MHz). This is the main difference between Cat7 and Cat8. Cat 8 ethernet cable is restricted to a 30-meter 2-connector channel. It also necessitates shielded cabling.
 
@@ -503,11 +503,14 @@ Category 8, or Cat8, cable, is a type of Ethernet cable that is distinct from
 <body bgcolor="white">
 <p align="center"> <img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.7.%20coax%20cable.gif"  height="300" weight="200" /> </p>
 </body>
-- RG58/U found in older ethernet, solid Core.5mm
-- Uses 50 ohm resistor[impendance] mostly on Bus topology.
+- RG58/U found in older ethernet, solid Core.5mm - Thinet of 185 meter long.
+- Uses 50 ohm resistor[impendance] mostly on Bus topology.Must be terminated by resistors.
 - RG58/AU has stranded core at its center. 5mm
-- RG8 uses fro Ethernet networking but now 50 ohm impendance. 10mm used for backbone wireing and older.
-- RG9 Cable TV and modems.
-- RG62 uses fro ARCNET protocol networking.
-- RG59 used for lowpower video and receiver.
-- RG6 cable TV signal routing. Now common.
+- RG8 uses fro Ethernet networking but now 50 ohm impendance. 10mm , used for backbone wireing and older.
+- RG9 Cable TV and modems.51ohms impendance. 10mm.
+- RG62 uses fro ARCNET protocol networking.93 ohm impedance, 5mm.
+- RG59 used for lowpower video and receiver.75 ohms, 6mm.
+- RG6 cable TV signal routing. Now common. 75 ohms.
+#### Types :
+
+<p align="center"> <img src="https://www.iothotspots.network/wp-content/uploads/2021/05/Coaxial-cable-connector-types-1210x425.jpg" /> </p>
