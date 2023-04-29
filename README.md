@@ -452,7 +452,7 @@ Wired : Connection through NIC or directly through cross over cable.
 
 ### Corssed over ethernet cable
 
-[David Bombal](https://youtube.com/shorts/XjA-GIS9U5U?feature=share) - Info about cross wired cable on devices.
+[David Bombal shorts ](https://youtube.com/shorts/XjA-GIS9U5U?feature=share) - Info about cross wired cable on devices.
 
 ### STP and UTP cable:
 - **Shielded Twisted Pair Cabling** 
@@ -518,10 +518,13 @@ Category 8, or Cat8, cable, is a type of Ethernet cable that is distinct from
 - RG6 cable TV signal routing. Now common. 75 ohms.
 
 #### Types :
-
 <p align="center"> <img src="https://www.iothotspots.network/wp-content/uploads/2021/05/Coaxial-cable-connector-types-1210x425.jpg" /> </p>
+<p align="center"> <img src="https://control.com/uploads/articles/antenna-cable-connectors.jpeg" /> </p>
 
-[About SBC, 10 Base T in a minute - By David Bombal](https://youtube.com/shorts/wjGFR38JFUE?feature=share)
+T-connector -
+https://ecomputernotes.com/images/BNC-Connector.jpg
+
+[cables Demonstration - By David Bombal shorts](https://youtube.com/shorts/wjGFR38JFUE?feature=share)
 ## **`Fiber Optics:`**
 
 <p align="center"> <img src="https://ripley-tools.com/wp-content/uploads/2022/10/RIP1706-Ripley-Fibre-Cable-Anatomy-v21024_1.jpg" height="300" width="500" /> </p>
