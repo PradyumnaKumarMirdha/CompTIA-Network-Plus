@@ -445,3 +445,17 @@ Inspite of haveing any kind of physical connection logical topology can be diffe
 > 🔴 The difference between /A and /B is that the first two pin of T-568A 1 and 2 are swapped with pin 3 and 6. 
 
 ### STP and UTP cable:
+- **Shielded Twisted Pair Cabling** 
+	- Copper cabling that has metal foil, or braied sheilding surrounding the paris.
+	- Decreases the susceptibility of EMI. 
+	- More expensive thatn UTP and can be more difficult to work with. 
+
+- **Unshielded Twisted Pair Cabling**
+	- UTP does not have any protective metal coating.
+	- Very susceptible to EMI.
+	- Relatively inexpensive and easy to work with.
+
+### Twisted Pair Cabling Categories:
+
+	Category | Data Rate | Max Length |Application
+	CAT1 | Upto 1 Mbps | | Old Telephone cables 
