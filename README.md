@@ -462,10 +462,6 @@ Wired : Connection through NIC or directly through cross over cable.
 
 ### Twisted Pair Cabling Categories:
 
-| Category | Data Rate | Max Length | Application |
-| --- | --- | --- | --- |
-| CAT1  | Upto 1 Mbps |  | Old Telephone cables. Voice only... Outdated |
-|  |  |  |  |
 
 | Category | Data Rate | Max Length | Application |
 | ---- | ---- | ---- | ---- | 
