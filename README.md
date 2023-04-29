@@ -482,8 +482,19 @@ Category 7 wire has four shielded twisted copper pairs and an overall cable shie
 
 #### Difference between CAT 6 and CAT 7
 
-<p align="center"> <img src="https://stl.tech/wp-content/uploads/2022/08/img8.png"/> </p>
+<p align="center"> <img src="https://www.hdcabling.co.za/wp-content/uploads/2022/08/CAT5e_vs_CAT6A_vs_CAT7_Differences_in_Construction.jpg"/> </p>
 Cat7 has a higher frequency than Cat6. As a result, a CAT 7 shielded ethernet cable will be able to transfer data faster than a Cat6 cable. The Cat 7 shielded cable performance and longevity criteria are also more stringent.
+
+- Unshielded Twisted pair (UTP)
+- Foiled Twisted Pair (FTP) 
+- STP (Shielded Twisted Pair) 
+- SFTP (Shielded & Foiled Twisted pair) 
+- STP (Screened Shielded Twisted pair)
+
+#### CAT6  variants:
+
+<p align="center"> <img src="https://www.hdcabling.co.za/wp-content/uploads/2023/02/CAT6_vs_CAT6A_vs_CAT6e_Mhz_Speed_Bandwidth_Diagram-1536x1155.jpg
+"/> </p>
 
 #### CAT 8 cable
 <p align="center"> <img src="https://i.ebayimg.com/images/g/tSIAAOSw2Qtc-NHa/s-l1600.jpg"/> </p>

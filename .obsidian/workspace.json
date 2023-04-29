@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guide.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guide.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guide.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guide.md"
+                "file": "README.md"
               }
             }
           },
@@ -181,9 +181,9 @@
   },
   "active": "f3f245c4d0afda40",
   "lastOpenFiles": [
+    "Guide.md",
     "conflict-files-obsidian-git.md",
     "README.md",
-    "Guide.md",
     "bus 1.jpg",
     "bus.jpg",
     "Figures/1.5. Network Model.bmp",
