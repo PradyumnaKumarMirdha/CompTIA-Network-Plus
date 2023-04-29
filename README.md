@@ -501,5 +501,5 @@ Category 8, or Cat8, cable, is a type of Ethernet cable that is distinct from
 
 ### Coax Cable:
 <body bgcolor="white">
-<p align="center"> <img src="https://camo.githubusercontent.com/c8edb00d8dfa2af833785ce6c284ffd6a8dd2682023e70255a52dd5046ea7187/68747470733a2f2f73746f726167652e626573746275792e636f6d2f75737765622f68746d6c2f393231353032382f757365722d6d616e75616c2f656e676c6973682f436f6e74656e742f416e696d61746564253230476966732f31352d303535305f414e545f6e6f626f785f636f6e6e6563746f722e676966"  height="300" weight="200" /> </p>
+<p align="center"> <img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.7.%20coax%20cable.gif"  height="300" weight="200" /> </p>
 </body>
