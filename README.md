@@ -591,4 +591,9 @@ Less common connectors include: SMA, FDDI, and Biconic.
 ### 568 /A /B /C standars:
 
 - **568 /A standards -** Older standard for data, voice, and video in commercial buildings. Outdated by 568 /B and /C standards.
-- **568 /B standards -** E
+- **568 /B standards -** Earlier standards including STP and UTP performance minimums, as well as Fiber Optic standars. Portions are now obsolete, but not completely.
+- **568 /C standards -** Current standard minimums for optimizing netwwork media performance in commerical buildings. Specifies CAT6a as the media type recommended.
+
+### Premise Wiring:
+
+
