@@ -551,8 +551,9 @@ T-connector -
 
 **Graded-Index Multimode Fiber:** It has glass core that has different variation allows larger ammount of bandwidth.
 
-> 🔴 Signle mode - Longer distance with slower transfer speed.
-> 		Multi Mode - Shorter distance with higher transfer speed.
+> 🔴 Single mode - Longer distance with slower transfer speed.
+
+> Multi Mode - Shorter distance with higher transfer speed.
 
 ### Fiber connectors:
 
