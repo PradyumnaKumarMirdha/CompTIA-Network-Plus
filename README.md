@@ -579,6 +579,9 @@ Less common connectors include: SMA, FDDI, and Biconic.
 
 # Structrued Cabling Standards:
 
+<p align="center"> <img src="https://www.dintek.com.tw/images/easyblog_articles/149/a1sx2_Med_Structured-Cabling-components.png" /> </p>
+
+
 - **Entrance Facilities:** Service entrance to the building, the Demarcation Point, and Backbone Connections.
 - **Backbone Wiring:** Connection between Communication closet and Equipement rooms. Depends on the media choosen like copper or Fiber.
 - **Equipemnt Room:**  Main Cross Connect (**MCC**), point of termination for Backbone wiring. Also considered as Main Distribution Frame(MDF).
