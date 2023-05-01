@@ -546,3 +546,11 @@ T-connector -
 **`IMPORTANT > `** [Fiber Cable types - By David Bombal shorts](https://www.youtube.com/shorts/x7bSegjbfbU) 
 
 **Single Mode Fiber:** Sigle beam of light can pass through the core. 30 Mhz Bandwidth, Modulated in intesity to trasmit data.
+
+**Step-Index-Multimode Fiber:** Cladding changes the speed and velocity of the light traveling through the medium. When the velocity changes, it is called the "stepdown".
+
+**Graded-Index Multimode Fiber:** It has glass core that has different variation allows larger ammount of bandwidth.
+
+> 🔴 Signle mode - Longer distance with slower transfer speed.
+> 		Multi Mode - Shorter distance with higher transfer speed.
+
