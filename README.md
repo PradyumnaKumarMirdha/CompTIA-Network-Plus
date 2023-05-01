@@ -544,3 +544,5 @@ T-connector -
 <p align="center"> <img src="https://www.cablematters.com/blog/image.axd?picture=/ArticlePhotos/Fiber-Optic-Cable-Types-A-Complete-Guide_2.jpg" /> </p>
 
 **`IMPORTANT > `** [Fiber Cable types - By David Bombal shorts](https://www.youtube.com/shorts/x7bSegjbfbU) 
+
+**Single Mode Fiber:** Sigle beam of light can pass through the core. 30 Mhz Bandwidth, Modulated in intesity to trasmit data.
