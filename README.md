@@ -554,3 +554,29 @@ T-connector -
 > 🔴 Signle mode - Longer distance with slower transfer speed.
 > 		Multi Mode - Shorter distance with higher transfer speed.
 
+### Fiber connectors:
+
+<p align="center"> <img src="https://www.cablematters.com/Blog/image.axd?picture=/Fiber%20Connectors/Fiber-Optic-Connector-Types-A-Beginners-Guide_2.jpg" /> </p>
+
+
+FC- Face contact Connector: Used in Industrial Environments where durability is a concern. Contains a ferrule center for strength.
+
+Less common connectors include: SMA, FDDI, and Biconic.
+
+> Fiber Distributed Data Interface is older connectors.
+
+### Media Converters:
+
+- Fiber to coaxial 
+- Multi-mode Fiber to ethernet
+- Single-Mode Fiber to Ethernet
+- Single-Mode Fiber to Multi-Mode Fiber
+
+`🔻 Important for Exam `
+
+# Structrued Cabling Standards:
+
+- **Entrance Facilities:** Service entrance to the building, the Demarcation Point, and Backbone Connections.
+- Backbone Wiring: Connection between Communication closet and Equipement room
+
+> Demarcation Point is the point at which the responsibility of the network changes from you to ISP.
