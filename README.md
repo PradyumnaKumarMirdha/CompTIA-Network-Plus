@@ -603,3 +603,12 @@ Less common connectors include: SMA, FDDI, and Biconic.
 ### Premise Wiring:
 
 <p align="center"> <img src="http://fiberbit.com.tw/wp-content/uploads/2013/11/structured-cabling-in-enterprises.png" /> </p>
+- Drop cable :The patch panel is the connection point for the patch cable and drop cables. Connected with RJ45 cabels.
+- Patch Panel : The patch panel cable can be connected through straight or crossover cable. Directly connectly connected through each other.
+- Patch cable : The patch panel and patch cable are located in wiring closets.
+- IDF : The IDF is the communication connetion point that connects the workstations to the MDF.
+- MDF : It is the connection point that distributes itself with all the other IDFs.
+
+> The IDF connetion are goes through the walls to the workstation.
+
+**When installing cables in a building there are requirements are to be mee**
