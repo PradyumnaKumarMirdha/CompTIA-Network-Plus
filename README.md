@@ -572,7 +572,7 @@ Less common connectors include: SMA, FDDI, and Biconic.
 - Single-Mode Fiber to Ethernet
 - Single-Mode Fiber to Multi-Mode Fiber
 
-`🔻 Important for Exam `
+`🔻 Important for Exam 🔻`
 
 # Structrued Cabling Standards:
 
@@ -580,5 +580,15 @@ Less common connectors include: SMA, FDDI, and Biconic.
 - **Backbone Wiring:** Connection between Communication closet and Equipement rooms. Depends on the media choosen like copper or Fiber.
 - **Equipemnt Room:**  Main Cross Connect (**MCC**), point of termination for Backbone wiring. Also considered as Main Distribution Frame(MDF).
 - **Telecommunication closet:** Contains the connection equipment for any nearby workstations, as well as conection between communication cross connects.
+- **Horizontal Wiring:** The cabling that goes between the workstation and the telecommunication closet.
+- **Work Area:** Everything coming from the wall to the workstation. Includes the faceplate, connectors and wiring.
 
 > Demarcation Point is the point at which the responsibility of the network changes from you to ISP.
+
+
+**The TIA also send out some specification of standards that line out the minimum performance level for network media.**
+
+### 568 /A /B /C standars:
+
+- **568 /A standards -** Older standard for data, voice, and video in commercial buildings. Outdated by 568 /B and /C standards.
+- **568 /B standards -** E
