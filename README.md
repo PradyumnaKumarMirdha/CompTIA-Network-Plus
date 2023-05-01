@@ -577,6 +577,8 @@ Less common connectors include: SMA, FDDI, and Biconic.
 # Structrued Cabling Standards:
 
 - **Entrance Facilities:** Service entrance to the building, the Demarcation Point, and Backbone Connections.
-- Backbone Wiring: Connection between Communication closet and Equipement room
+- **Backbone Wiring:** Connection between Communication closet and Equipement rooms. Depends on the media choosen like copper or Fiber.
+- **Equipemnt Room:**  Main Cross Connect (**MCC**), point of termination for Backbone wiring. Also considered as Main Distribution Frame(MDF).
+- **Telecommunication closet:** Contains the connection equipment for any nearby workstations, as well as conection between communication cross connects.
 
 > Demarcation Point is the point at which the responsibility of the network changes from you to ISP.
