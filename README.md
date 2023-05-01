@@ -602,4 +602,4 @@ Less common connectors include: SMA, FDDI, and Biconic.
 
 ### Premise Wiring:
 
-
+<p align="center"> <img src="http://fiberbit.com.tw/wp-content/uploads/2013/11/structured-cabling-in-enterprises.png" /> </p>
