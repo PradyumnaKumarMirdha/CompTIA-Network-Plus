@@ -611,4 +611,16 @@ Less common connectors include: SMA, FDDI, and Biconic.
 
 > The IDF connetion are goes through the walls to the workstation.
 
-**When installing cables in a building there are requirements are to be mee**
+**When installing cables in a building there are requirements are to be meet.**
+
+### Plenum Vs PVC 
+
+**`PVC:`** 
+
+- Ployvinyl-chloride Cabling. Normal, standard cable. Inexpensive and easy to work with.
+- When PVC burns it allows fire to travel through the cable and lets off noxious fumes.
+
+**`Plenum Cable: `**
+
+- Used in Air Handling Spaces and HVAC area in buildings to meet Fire Code requirements.
+- More expesive than PVC.
