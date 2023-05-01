@@ -513,6 +513,7 @@ Category 8, or Cat8, cable, is a type of Ethernet cable that is distinct from
 <body bgcolor="white">
 <p align="center"> <img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.7.%20coax%20cable.gif"  height="300" weight="200" /> </p>
 </body>
+
 - RG58/U found in older ethernet, solid Core.5mm - Thinet of 185 meter long.
 - Uses 50 ohm resistor[impendance] mostly on Bus topology.Must be terminated by resistors.
 - RG58/AU has stranded core at its center. 5mm
@@ -533,6 +534,7 @@ T-connector -
 ## **`Fiber Optics:`**
 
 <p align="center"> <img src="https://ripley-tools.com/wp-content/uploads/2022/10/RIP1706-Ripley-Fibre-Cable-Anatomy-v21024_1.jpg" height="300" width="500" /> </p>
+
 - Outer protective layer, or Jacket.
 - Strengthening Fibers typically made of strong material like Kevlar.
 - Color coded buffer surrounding the core cladding.
