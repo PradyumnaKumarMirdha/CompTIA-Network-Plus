@@ -625,9 +625,30 @@ Less common connectors include: SMA, FDDI, and Biconic.
 
 - Used in Air Handling Spaces and HVAC area in buildings to meet Fire Code requirements.
 - More expesive than PVC.
+----
 
+## Extended to Bounded Network Media
 
+### Module
 
+🔲 Modular connector<br>
+🔲 T568A and T568B wiring schemes<br>
+🔲 MDI and MDI-X<br>
+🔲 Straight-through cable<br>
+🔲 Crossover Cable<br>
+🔲Auto MDI-X<br>
+🔲 Rollover Cable<br>
+
+---
+
+### Modular connector
+
+- A type of electrical connector that is commonly used in the following:
+	- Telepnone ssytems
+	- Data networks 
+	- Low-speed serical connections
+
+> Example of Modular connector : 8P8C connector
 
 ## Horizontal Cabling
 
@@ -656,8 +677,16 @@ Devices on an Ethernet computer network use two types of hardware interfaces:
 **`IMPORTANT > `** [Cross over cable - By David Bombal shorts](https://www.youtube.com/shorts/XjA-GIS9U5U)
 
 
+### Straight-through cable
 
+- A type of Ethernet cable used to connect dissimilar devices
+	- Example: An UTP cable connecting a computer and a switch
+- Also known as patch cable
+- UTP cable are used in modern Ethernet network
+- The wires ofa n UTP cable cannot be pugged directly into 
 ## Rollover Cable
 
 - Used to connect a PC or a laptop directly to the console port of a switch or a router
 - Has an 8P8C connector on one end and a RS-232 based connector, such as DB-9 connector, on the other end.
+- Cisco console cable is typically used by network administrators to configure a Cisco switch or a Cisco router.
+- Pin 1 of an 8P8C connector is connected to Pin 8 of a RS-232 connector, Pin 2 is connected to pin 7, 3 goes to 6, and so on
