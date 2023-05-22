@@ -652,3 +652,12 @@ Devices on an Ethernet computer network use two types of hardware interfaces:
 - An MDI-X Device is a device with an MDI-X port
 	- Switches or Routers
 
+
+**`IMPORTANT > `** [Cross over cable - By David Bombal shorts](https://www.youtube.com/shorts/XjA-GIS9U5U)
+
+
+
+## Rollover Cable
+
+- Used to connect a PC or a laptop directly to the console port of a switch or a router
+- Has an 8P8C connector on one end and a RS-232 based connector, such as DB-9 connector, on the other end.
