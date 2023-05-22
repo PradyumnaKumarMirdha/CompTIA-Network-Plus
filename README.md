@@ -647,4 +647,8 @@ Devices on an Ethernet computer network use two types of hardware interfaces:
 	- A computer or a laptop
 
 #### MDI-X
-- 
+- Stands for Medium Dependent Inerface with crossover
+- The ports of devices that provide connectivity, such as a switch or a hub, are setup as Media Depenednt Interface with Crossover(MDI-X)
+- An MDI-X Device is a device with an MDI-X port
+	- Switches or Routers
+
