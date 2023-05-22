@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3f245c4d0afda40",
+            "id": "e596b01508a8cbf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,6 +62,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa6d92d33f712a1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -142,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3f245c4d0afda40",
+  "active": "e596b01508a8cbf3",
   "lastOpenFiles": [
     "Guide.md",
     "README.md",

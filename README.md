@@ -625,3 +625,26 @@ Less common connectors include: SMA, FDDI, and Biconic.
 
 - Used in Air Handling Spaces and HVAC area in buildings to meet Fire Code requirements.
 - More expesive than PVC.
+
+
+
+
+## Horizontal Cabling
+
+Horizontal cabling wiring can be IW (inside wiring) or plenum calbling and connects telecommunications rooms to individual outlets or work areas on the floor, usually through the wireways, conduits or ceiling spaces of each floor. A horizontal cross-connect is where the horizontal cabling connects to a patch panel or punch up block, which is connected by backbone cabling to the main distribution facility.
+
+### MDI and MDI-X
+
+Devices on an Ethernet computer network use two types of hardware interfaces:
+	- MDI
+	- MDI-X
+
+#### MDI
+- Stands for Medium Dependent Inerface
+- A hardware interface that establishes a direct physical and electrical connection with an UTP cable.
+- An MDI port is the traditional port on the back of a computer's NIC
+- An MDI device is a device with an MDI port 
+	- A computer or a laptop
+
+#### MDI-X
+- 
