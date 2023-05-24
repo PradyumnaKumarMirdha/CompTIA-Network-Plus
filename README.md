@@ -650,7 +650,7 @@ Less common connectors include: SMA, FDDI, and Biconic.
 
 > Example of Modular connector : 8P8C connector
 
-## Horizontal Cabling
+### Horizontal Cabling
 
 Horizontal cabling wiring can be IW (inside wiring) or plenum calbling and connects telecommunications rooms to individual outlets or work areas on the floor, usually through the wireways, conduits or ceiling spaces of each floor. A horizontal cross-connect is where the horizontal cabling connects to a patch panel or punch up block, which is connected by backbone cabling to the main distribution facility.
 
@@ -676,15 +676,20 @@ Devices on an Ethernet computer network use two types of hardware interfaces:
 
 **`IMPORTANT > `** [Cross over cable - By David Bombal shorts](https://www.youtube.com/shorts/XjA-GIS9U5U)
 
-
 ### Straight-through cable
 
 - A type of Ethernet cable used to connect dissimilar devices
 	- Example: An UTP cable connecting a computer and a switch
 - Also known as patch cable
 - UTP cable are used in modern Ethernet network
-- The wires ofa n UTP cable cannot be pugged directly into 
-## Rollover Cable
+- The wires of an UTP cable cannot be plugged directly into Computer's NIC or A switch's port
+- Pin and wire assignments are in the same order on the both the ends of the cable.
+
+> Example: A computer with a switch
+
+### Crossover Cable
+
+### Rollover Cable
 
 - Used to connect a PC or a laptop directly to the console port of a switch or a router
 - Has an 8P8C connector on one end and a RS-232 based connector, such as DB-9 connector, on the other end.

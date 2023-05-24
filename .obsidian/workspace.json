@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b1f92bab2f76fa1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +174,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e596b01508a8cbf3",
+  "active": "7b1f92bab2f76fa1",
   "lastOpenFiles": [
     "Guide.md",
     "README.md",
