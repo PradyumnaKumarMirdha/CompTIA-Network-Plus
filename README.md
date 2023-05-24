@@ -695,3 +695,16 @@ Devices on an Ethernet computer network use two types of hardware interfaces:
 - Has an 8P8C connector on one end and a RS-232 based connector, such as DB-9 connector, on the other end.
 - Cisco console cable is typically used by network administrators to configure a Cisco switch or a Cisco router.
 - Pin 1 of an 8P8C connector is connected to Pin 8 of a RS-232 connector, Pin 2 is connected to pin 7, 3 goes to 6, and so on
+
+---
+
+### Module
+
+🔲 Copper connector<br>
+🔲 Transceivers<br>
+🔲 Termination points<br>
+🔲 Copper cable standards<br>
+🔲 Network storage connection types<br>
+
+---
+ 

@@ -23,9 +23,11 @@
             "id": "7b1f92bab2f76fa1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
