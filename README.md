@@ -732,4 +732,25 @@ Coaxial RF connector:
 ### Punch-down Blocks
 
 <p align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTf3CFh_KFTAlnZ51jFs4VPoiL8p4gDrHyY5o0sNJtiCjIS_UNKaGpcXYYYWILHaiyUjA&usqp=CAU" /> </p>
-Typically used for telephony electrical connections
+
+Typically used for telephony electrical connections:
+- Copper wires 'punched down' into open-ended slots
+-  66 block is a model number (50 rows)
+	- Subject to crosstalk - not suitable for 100 Mbps
+- 100 block replaced 66 block
+	- Often used to terminate cable runs
+
+
+<p align="center"> <img src="https://cdn.shopify.com/s/files/1/0252/1897/3741/products/PP7-1144-2MC_01.jpg?v=1567190844" /> </p>
+
+### Fiber Distribution Panel
+
+<p align="center"> <img src="https://5.imimg.com/data5/AB/VN/MY-25204275/1-500x500.jpg" /> </p>
+
+AKA fiber distribution hub(FHD):
+
+- Patch panel used to terminate fiber optic cables
+- Provides access to the cable's individual fibers for cross connection
+
+
+Type | 
