@@ -437,26 +437,26 @@ Wired : Connection through NIC or directly through cross over cable.
 - Copper and fiber optic calbes are example of Bounded Network Media.
 -   Utilizes a physical conductor such as metal wire or a glass or plastic core cable.
 
-## **`Copper Media`**
+### **`Copper Media`**
 
 -   Either a single copper core, or made up of twisted pars of copper strands.
     -   These transmits data in the form of electromagnetic energy.
 -   Most common implementations are Coaxial(Coax) Cable and Twisted Pair Cable.
 -   Foil metal braids helps to prevent EMI(Electro Magnetic Interference).
 
-## **`Twisted Pair Cable`**
+#### **`Twisted Pair Cable`**
 
 -   Two or more pairs of cable twisted together.
 -   Color coded wrapped plastic.
 -   Pairs are wrapped in another plastic sheath.
 -   Will utilize an RJ-45 connector for data.
 
-#### T568/A cable
+### T568/A cable
 <p align="center"> <img src="https://images.theengineeringprojects.com/image/webp/2018/07/introduction-to-rj45-4.png.webp?ssl=1" height="300" weight="200"/> </p>
 
 > 🔴 The difference between /A and /B is that the first two pin of T-568A 1 and 2 are swapped with pin 3 and 6. 
 
-### Corssed over ethernet cable
+#### Crossed over ethernet cable
 
 **`IMPORTANT >`** [David Bombal shorts ](https://youtube.com/shorts/XjA-GIS9U5U?feature=share) - Info about cross wired cable on devices.
 
@@ -510,7 +510,7 @@ Cat7 has a higher frequency than Cat6. As a result, a CAT 7 shielded ethernet 
 <p align="center"> <img src="https://i.ebayimg.com/images/g/tSIAAOSw2Qtc-NHa/s-l1600.jpg"  height="300" weight="200"/> </p>
 Category 8, or Cat8, cable, is a type of Ethernet cable that is distinct from other cables. It can operate at a frequency of up to 2 GHz (2000 MHz). This is the main difference between Cat7 and Cat8. Cat 8 ethernet cable is restricted to a 30-meter 2-connector channel. It also necessitates shielded cabling.
 
-## **`Coax Cable:`**
+### **`Coax Cable:`**
 <body bgcolor="white">
 <p align="center"> <img src="https://github.com/PradyumnaKumarMirdha/CompTIA-Network-Plus/blob/main/Figures/1.7.%20coax%20cable.gif"  height="300" weight="200" /> </p>
 </body>
@@ -532,7 +532,7 @@ T-connector -
 <p align="center"> <img src="https://ecomputernotes.com/images/BNC-Connector.jpg" /> </p>
 
 **`IMPORTANT >`** [cables Demonstration - By David Bombal shorts](https://youtube.com/shorts/wjGFR38JFUE?feature=share)
-## **`Fiber Optics:`**
+### **`Fiber Optics:`**
 
 <p align="center"> <img src="https://ripley-tools.com/wp-content/uploads/2022/10/RIP1706-Ripley-Fibre-Cable-Anatomy-v21024_1.jpg" height="300" width="500" /> </p>
 
@@ -578,7 +578,7 @@ Less common connectors include: SMA, FDDI, and Biconic.
 
 `🔻 Important for Exam 🔻`
 
-# Structrued Cabling Standards:
+### Structured Cabling Standards:
 
 <p align="center"> <img src="https://www.dintek.com.tw/images/easyblog_articles/149/a1sx2_Med_Structured-Cabling-components.png" /> </p>
 
@@ -595,11 +595,11 @@ Less common connectors include: SMA, FDDI, and Biconic.
 
 **The TIA also send out some specification of standards that line out the minimum performance level for network media.**
 
-### 568 /A /B /C standars:
+### 568 /A /B /C standards:
 
 - **568 /A standards -** Older standard for data, voice, and video in commercial buildings. Outdated by 568 /B and /C standards.
-- **568 /B standards -** Earlier standards including STP and UTP performance minimums, as well as Fiber Optic standars. Portions are now obsolete, but not completely.
-- **568 /C standards -** Current standard minimums for optimizing netwwork media performance in commerical buildings. Specifies CAT6a as the media type recommended.
+- **568 /B standards -** Earlier standards including STP and UTP performance minimums, as well as Fiber Optic standards. Portions are now obsolete, but not completely.
+- **568 /C standards -** Current standard minimums for optimizing network media performance in commercial buildings. Specifies CAT6a as the media type recommended.
 
 ### Premise Wiring:
 
@@ -614,7 +614,7 @@ Less common connectors include: SMA, FDDI, and Biconic.
 
 **When installing cables in a building there are requirements are to be meet.**
 
-### Plenum Vs PVC 
+#### Plenum Vs PVC 
 
 **`PVC:`** 
 
@@ -752,6 +752,7 @@ AKA fiber distribution hub(FHD):
 - Patch panel used to terminate fiber optic cables
 - Provides access to the cable's individual fibers for cross connection
 
+### RG standards
 
 Type | Impendence (Ohms) | Shields | Remarks
 RG-6U | 75 | Double | Low loss at high frequency for cable television, satellite television and cable modems
