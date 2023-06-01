@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e95569275be82b6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,7 +186,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b1f92bab2f76fa1",
+  "active": "0e95569275be82b6",
   "lastOpenFiles": [
     "Guide.md",
     "README.md",
