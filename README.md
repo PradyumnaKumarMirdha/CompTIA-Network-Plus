@@ -753,4 +753,12 @@ AKA fiber distribution hub(FHD):
 - Provides access to the cable's individual fibers for cross connection
 
 
-Type | 
+Type | Impendence (Ohms) | Shields | Remarks
+RG-6U | 75 | Double | Low loss at high frequency for cable television, satellite television and cable modems
+RG-6/UQ | 75 | Quad | This is "quad shield RG-6". It has four layers for shielding, regular RG-6 has only one or two.
+RG-59/U | 75 | Single | Used to carry baseband video in closed circuit television, Previously used for cable television. In general, it has poor shielding but will carry an HQ HD signal or video over short distances
+RG-59A/U | 75 | Single | Similar physical characteristic as RG-59 and RG-59U, but with a higher velocity factor 8.9@700 MHz.
+
+### Transceivers
+
+<p align="center"> <img src="https://cdn.optcore.net/wp-content/uploads/2017/02/Fiber-Optical-Transceiver-Series_500.jpg" /> </p>
