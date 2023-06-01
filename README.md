@@ -707,4 +707,29 @@ Devices on an Ethernet computer network use two types of hardware interfaces:
 🔲 Network storage connection types<br>
 
 ---
- 
+
+
+### DB Connector
+
+- D connectors created by Cannon in 1952:
+	- Used in Token Ring Network
+	- External floppy disk drives
+	- Mouse connectors
+	- Replaced by USB
+
+- D shape: 
+	- Ensures cables correctly attached
+	- Designed to work with the EIA/TIA 232 serial interface standards
+	- DB9(RS-232), DB25
+
+
+### F Connector
+Coaxial RF connector:
+- Commonly used for cable, satellite TV/ Cable modem
+- Seen in TV antenna connections
+- Usable bandwidth up to several GHz
+
+### Punch-down Blocks
+
+<p align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTf3CFh_KFTAlnZ51jFs4VPoiL8p4gDrHyY5o0sNJtiCjIS_UNKaGpcXYYYWILHaiyUjA&usqp=CAU" /> </p>
+Typically used for telephony electrical connections
