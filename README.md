@@ -755,6 +755,7 @@ AKA fiber distribution hub(FHD):
 ### RG standards
 
 Type | Impendence (Ohms) | Shields | Remarks
+---- | --- | --- | ---
 RG-6U | 75 | Double | Low loss at high frequency for cable television, satellite television and cable modems
 RG-6/UQ | 75 | Quad | This is "quad shield RG-6". It has four layers for shielding, regular RG-6 has only one or two.
 RG-59/U | 75 | Single | Used to carry baseband video in closed circuit television, Previously used for cable television. In general, it has poor shielding but will carry an HQ HD signal or video over short distances
