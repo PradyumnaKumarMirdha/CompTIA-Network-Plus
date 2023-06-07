@@ -789,7 +789,7 @@ Protocol used in high-performance computing
 
 -----
 
-## 1.4. Unbounded Network Hardware & Media
+## 1.5. Unbounded Network Hardware & Media
 
 <p align="center"> <img src="https://discovertemplate.com/wp-content/uploads/2020/08/DT_G29_Network-Technology-Animated-GIF-Icon-pack.gif" /> </p>
 
@@ -815,4 +815,18 @@ Protocol used in high-performance computing
 ### Radio Networking
 
 Data are transmitted as RF(Radio Frequency).
-10-16 khz
+The signals of RF waves are transmitted through10-16 khz range. These are susceptible to EMI like powerline, metallic obstacle, or atmospheric conditions (flight overhead).
+
+### Broadcast Radio
+
+- Also consider as broadcast network.
+- The signals are sent out in all direction.
+- Utilizes single frequency for transmission.
+- Low power transmission for shorter distances.
+- High power for larger distances.
+
+### Spread Spectrum
+
+As the signals are sent over the airwaves, the signal can be intercepted easily. In order to utilize the technology for day-to-day transmission of information, a new from of transmission is developed i.e Spread Spectrum. 
+
+A spread Spectrum was introduced to address some of the concern that 
