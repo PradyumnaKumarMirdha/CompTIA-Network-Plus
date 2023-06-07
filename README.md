@@ -796,11 +796,23 @@ Protocol used in high-performance computing
 
 ### Module
 
-🔲 Copper connector<br>
-🔲 Transceivers<br>
-🔲 Termination points<br>
-🔲 Copper cable standards<br>
-🔲 Network storage connection types<br>
+🔲 Define Unbounded Network Media<br>
+🔲 Define Radio Networking and Broadcast Radio<br>
+🔲 Describe Spread Spectrum<br>
+🔲 Describe IR and Bluetooth and Microwave<br>
+🔲 Discuss a Wireless Access Point<br>
+🔲 Describe the Characteristic of an SSID<br>
+🔲 Outline basic  of properly installing a WAP<br>
 
 ----
 
+### Unbounded Network Media
+
+- Media that is not bound by physical characteristics such as coper or fiber
+- Network media that transmits wirelessly.
+- Has specific advantages over bounded media as well as varied disadvantages.
+
+### Radio Networking
+
+Data are transmitted as RF(Radio Frequency).
+10-16 khz
