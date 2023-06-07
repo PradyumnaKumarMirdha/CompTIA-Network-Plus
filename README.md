@@ -829,4 +829,9 @@ The signals of RF waves are transmitted through10-16 khz range. These are suscep
 
 As the signals are sent over the airwaves, the signal can be intercepted easily. In order to utilize the technology for day-to-day transmission of information, a new from of transmission is developed i.e Spread Spectrum. 
 
-A spread Spectrum was introduced to address some of the concern that 
+A Spread Spectrum was introduced to address some of the concern like It takes the radio signal to be transmitted and sent it over more than one frequency.
+
+**Types of spread spectrum** :
+
+- **`DSSS`** : Direct Sequence Spread Spectrum utilizes multiple channel to transmit the message simultaneously all same time. It also has a method of error checking EDAC( Error Detection and correction) allows some signal loss while being able to put the original signal back together on the receiving end.
+- **`FHSS`** : Frequency Hopping Spread Spectrum sends the signal one at a time but hops to one another at predetermined interval. Can 
