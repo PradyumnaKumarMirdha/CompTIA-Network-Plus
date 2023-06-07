@@ -82,7 +82,7 @@ _____________________________________
 
 ## 1.1. Networking & Terminology
 <p align="center">
-  <img src="https://media2.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif?cid=ecf05e47msh9t9z1f6nz3cy2kp5uli846qvixo4sfp9u8oh2&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="image description" height="500" width="800" />
+  <img src="https://media2.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif?cid=ecf05e47msh9t9z1f6nz3cy2kp5uli846qvixo4sfp9u8oh2&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="image description" />
 </p>
 
 ## Module
@@ -154,7 +154,7 @@ It is responsible for carrying the majority of Network traffic.
 ## 1.2. Network Categories and Models
 
 <p align="center">
-<img src="https://media2.giphy.com/media/3o6gbchrcNIt4Ma8Tu/giphy.gif?cid=ecf05e471j35eujmcesurchtoqu8gi1s6sclq9xb58t6zuy7&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="500" width="800"/>
+<img src="https://media2.giphy.com/media/3o6gbchrcNIt4Ma8Tu/giphy.gif?cid=ecf05e471j35eujmcesurchtoqu8gi1s6sclq9xb58t6zuy7&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </p>
 
 ## Module
