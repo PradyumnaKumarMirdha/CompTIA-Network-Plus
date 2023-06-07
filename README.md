@@ -787,4 +787,20 @@ Protocol used in high-performance computing
 
 <p align="center"> <img src="https://www.fiber-optic-transceiver-module.com/wp-content/uploads/2017/08/Basic-InfiniBand-Structure.png" /> </p>
 
-## 
+-----
+
+## 1.4. Unbounded Network Hardware & Media
+
+<p align="center"> <img src="https://discovertemplate.com/wp-content/uploads/2020/08/DT_G29_Network-Technology-Animated-GIF-Icon-pack.gif" /> </p>
+
+
+### Module
+
+🔲 Copper connector<br>
+🔲 Transceivers<br>
+🔲 Termination points<br>
+🔲 Copper cable standards<br>
+🔲 Network storage connection types<br>
+
+----
+
