@@ -771,6 +771,7 @@ Transmitter/ Receiver - converts the serial electrical signal to serial optical 
 - (SFP+) is an enhanced version of the SFP that supports data rates up to 16 Gbit/s.
 - Quad Small Form-factor Pluggable (QSFP)(4x1/10/14/28 Gbit/s.)
 
+**`SFP: Small form-factor Pluggable`**
 <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/SFP_board_2.jpg" /> </p>
 
 ### Network Storage - Fiber Channel over Ethernet
