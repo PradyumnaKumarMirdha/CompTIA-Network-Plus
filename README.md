@@ -838,4 +838,7 @@ A Spread Spectrum was introduced to address some of the concern like It takes th
 
 ### Infrared Transmission
 
+<p align="center"> <img src="https://i.ytimg.com/vi/vqkv4zkiNrw/hqdefault.jpg" /> </p>
+
+
 
